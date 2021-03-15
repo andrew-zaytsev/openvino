@@ -8,7 +8,7 @@ Pre-trained models for BERT (Bidirectional Encoder Representations from Transfor
 Currently, the following models from the [pre-trained BERT model list](https://github.com/google-research/bert#pre-trained-models) are supported:
 
 - `BERT-Base, Cased`
-- `BERT-Base, Uncased`
+- `BERT-Base, Uncased` 
 - `BERT-Base, Multilingual Cased`
 - `BERT-Base, Multilingual Uncased`
 - `BERT-Base, Chinese`
