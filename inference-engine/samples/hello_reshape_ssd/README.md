@@ -1,4 +1,4 @@
-# Hello Reshape SSD C++ Sample {#openvino_inference_engine_samples_hello_reshape_ssd_README}
+# Hello Reshape SSD C++ Sample
 
 This sample demonstrates how to execute an inference of object detection networks like SSD-VGG using Synchronous Inference Request API, [input reshape feature](../../../docs/IE_DG/ShapeInference.md) and implementation of [custom extension library for CPU device](../../../docs/IE_DG/Extensibility_DG/CPU_Kernel.md) (CustomReLU kernel).
 

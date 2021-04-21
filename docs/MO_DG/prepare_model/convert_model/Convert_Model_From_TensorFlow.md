@@ -1,4 +1,4 @@
-# Converting a TensorFlow* Model {#openvino_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow}
+# Converting a TensorFlow* Model
 
 A summary of the steps for optimizing and deploying a model that was trained with the TensorFlow\* framework:
 

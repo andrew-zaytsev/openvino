@@ -1,4 +1,4 @@
-## DetectionOutput <a name="DetectionOutput"></a> {#openvino_docs_ops_detection_DetectionOutput_1}
+## DetectionOutput <a name="DetectionOutput"></a>
 
 **Versioned name**: *DetectionOutput-1*
 

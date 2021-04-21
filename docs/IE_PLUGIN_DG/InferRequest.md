@@ -1,4 +1,4 @@
-# Synchronous Inference Request {#infer_request}
+# Synchronous Inference Request
 
 `InferRequest` class functionality:
 - Allocate input and output blobs needed for a backend-dependent network inference.

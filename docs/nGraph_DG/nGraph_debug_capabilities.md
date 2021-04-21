@@ -1,4 +1,4 @@
-# nGraph Debug Capabilities {#openvino_docs_nGraph_DG_Debug_capabilities}
+# nGraph Debug Capabilities
 
 nGraph representation provides an API to get detailed information about the graph structure.
 

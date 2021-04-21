@@ -1,4 +1,4 @@
-# Inference Engine Extensibility Mechanism {#openvino_docs_IE_DG_Extensibility_DG_Intro}
+# Inference Engine Extensibility Mechanism
 
 Inference Engine Extensibility API enables you to add support of custom operations to the Inference Engine.
 Extension should contain operation sets with custom operations and execution kernels for custom operations.

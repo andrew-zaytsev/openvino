@@ -1,4 +1,4 @@
-## ReduceMin <a name="ReduceMin"></a> {#openvino_docs_ops_reduction_ReduceMin_1}
+## ReduceMin <a name="ReduceMin"></a>
 
 **Versioned name**: *ReduceMin-1*
 

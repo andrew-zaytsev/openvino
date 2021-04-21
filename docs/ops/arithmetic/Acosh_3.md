@@ -1,4 +1,4 @@
-## Acosh <a name="Acosh"></a> {#openvino_docs_ops_arithmetic_Acosh_3}
+## Acosh <a name="Acosh"></a>
 
 **Versioned name**: *Acosh-3*
 

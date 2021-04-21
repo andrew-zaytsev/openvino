@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for Linux* Using APT Repository {#openvino_docs_install_guides_installing_openvino_apt}
+# Install Intel® Distribution of OpenVINO™ toolkit for Linux* Using APT Repository
 
 This guide provides installation steps for Intel® Distribution of OpenVINO™ toolkit for Linux* distributed through the APT repository.
 

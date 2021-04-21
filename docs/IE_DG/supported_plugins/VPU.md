@@ -1,4 +1,4 @@
-# VPU Plugins {#openvino_docs_IE_DG_supported_plugins_VPU}
+# VPU Plugins
 
 This chapter provides information on the Inference Engine plugins that enable inference of deep learning models on the supported VPU devices:
 

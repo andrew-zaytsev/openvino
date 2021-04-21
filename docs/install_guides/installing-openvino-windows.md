@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for Windows* 10 {#openvino_docs_install_guides_installing_openvino_windows}
+# Install Intel® Distribution of OpenVINO™ toolkit for Windows* 10
 
 > **NOTES**:
 > - This guide applies to Microsoft Windows\* 10 64-bit. For Linux* OS information and instructions, see the [Installation Guide for Linux](installing-openvino-linux.md).

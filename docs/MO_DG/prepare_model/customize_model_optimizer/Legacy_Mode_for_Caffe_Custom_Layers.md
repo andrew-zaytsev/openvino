@@ -1,4 +1,4 @@
-# Legacy Mode for Caffe* Custom Layers  {#openvino_docs_MO_DG_prepare_model_customize_model_optimizer_Legacy_Mode_for_Caffe_Custom_Layers}
+# Legacy Mode for Caffe* Custom Layers 
 
 > **NOTE**: This functionality is deprecated and will be removed in the future releases.
 

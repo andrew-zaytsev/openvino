@@ -1,4 +1,4 @@
-# Convert Neural Collaborative Filtering Model from TensorFlow* to the Intermediate Representation {#openvino_docs_MO_DG_prepare_model_convert_model_tf_specific_Convert_NCF_From_Tensorflow}
+# Convert Neural Collaborative Filtering Model from TensorFlow* to the Intermediate Representation
 
 This tutorial explains how to convert Neural Collaborative Filtering (NCF) model to Intermediate Representation (IR).
 

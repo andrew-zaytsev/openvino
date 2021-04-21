@@ -1,4 +1,4 @@
-# Plugin Testing {#plugin_testing}
+# Plugin Testing
 
 Inference Engine (IE) tests infrastructure provides a predefined set of functional tests and utilities. They are used to verify a plugin using the Inference Engine public API.
 All the tests are written in the [Google Test C++ framework](https://github.com/google/googletest).

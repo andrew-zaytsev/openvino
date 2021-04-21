@@ -1,4 +1,4 @@
-# Intel® Distribution of OpenVINO™ toolkit Benchmark Results {#openvino_docs_performance_benchmarks_openvino}
+# Intel® Distribution of OpenVINO™ toolkit Benchmark Results
 
 This benchmark setup includes a single machine on which both the benchmark application and the OpenVINO™ installation reside.  
 

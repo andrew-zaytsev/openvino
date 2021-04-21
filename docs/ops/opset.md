@@ -1,4 +1,4 @@
-# Available Operations Sets {#openvino_docs_ops_opset}
+# Available Operations Sets
 
 According to capabilities of supported deep learning frameworks and hardware capabilities of a target inference device, all operations are combined into operations sets each fully supported in a specific version of OpenVINO™ toolkit. 
 

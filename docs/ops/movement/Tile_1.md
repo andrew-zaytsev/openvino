@@ -1,4 +1,4 @@
-## Tile<a name="Tile"></a> {#openvino_docs_ops_movement_Tile_1}
+## Tile<a name="Tile"></a>
 
 **Versioned name**: *Tile-1*
 

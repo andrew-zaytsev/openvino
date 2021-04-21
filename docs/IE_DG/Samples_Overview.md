@@ -1,4 +1,4 @@
-# Inference Engine Samples {#openvino_docs_IE_DG_Samples_Overview}
+# Inference Engine Samples
 
 The Inference Engine sample applications are simple console applications that show how to utilize specific Inference Engine capabilities within an application, assist developers in executing specific tasks such as loading a model, running inference, querying specific device capabilities and etc. 
 

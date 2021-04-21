@@ -1,4 +1,4 @@
-# Create a Yocto* Image with OpenVINO™ toolkit {#openvino_docs_install_guides_installing_openvino_yocto}
+# Create a Yocto* Image with OpenVINO™ toolkit
 This document provides instructions for creating a Yocto* image with OpenVINO™ toolkit.
 
 Instructions were validated and tested for [Yocto OpenVINO 2020.4 release](http://git.yoctoproject.org/cgit/cgit.cgi/meta-intel).

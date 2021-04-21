@@ -1,4 +1,4 @@
-# Install OpenVINO™ toolkit for Raspbian* OS {#openvino_docs_install_guides_installing_openvino_raspbian}
+# Install OpenVINO™ toolkit for Raspbian* OS
 
 > **NOTE**:
 > - These steps apply to 32-bit Raspbian\* OS, which is an official OS for Raspberry Pi\* boards.

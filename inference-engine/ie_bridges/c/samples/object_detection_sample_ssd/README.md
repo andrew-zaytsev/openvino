@@ -1,4 +1,4 @@
-# Object Detection C Sample SSD {#openvino_inference_engine_ie_bridges_c_samples_object_detection_sample_ssd_README}
+# Object Detection C Sample SSD
 
 This sample demonstrates how to execute an inference of object detection networks like SSD-VGG using Asynchronous Inference Request API and [input reshape feature](../../../../../docs/IE_DG/ShapeInference.md).
 

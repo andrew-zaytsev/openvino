@@ -1,4 +1,4 @@
-# Get Started with OpenVINO™ Toolkit on macOS* {#openvino_docs_get_started_get_started_macos}
+# Get Started with OpenVINO™ Toolkit on macOS*
 
 The OpenVINO™ toolkit optimizes and runs Deep Learning Neural Network models on Intel® hardware. This guide helps you get started with the OpenVINO™ toolkit you installed on macOS*. 
 

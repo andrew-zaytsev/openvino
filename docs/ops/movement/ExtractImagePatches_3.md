@@ -1,4 +1,4 @@
-## ExtractImagePatches <a name="ExtractImagePatches"></a> {#openvino_docs_ops_movement_ExtractImagePatches_3}
+## ExtractImagePatches <a name="ExtractImagePatches"></a>
 
 **Versioned name**: *ExtractImagePatches-3*
 

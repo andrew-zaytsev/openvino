@@ -1,4 +1,4 @@
-# Supported Framework Layers {#openvino_docs_MO_DG_prepare_model_Supported_Frameworks_Layers}
+# Supported Framework Layers
 
 ## Caffe\* Supported Layers
 

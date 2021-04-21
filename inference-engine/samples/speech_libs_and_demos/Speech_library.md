@@ -1,4 +1,4 @@
-# Speech Library {#openvino_inference_engine_samples_speech_libs_and_demos_Speech_library}
+# Speech Library
 
 ## Overview
 

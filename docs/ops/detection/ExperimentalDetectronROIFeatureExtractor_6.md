@@ -1,4 +1,4 @@
-## ExperimentalDetectronROIFeatureExtractor <a name="ExperimentalDetectronROIFeatureExtractor"></a> {#openvino_docs_ops_detection_ExperimentalDetectronROIFeatureExtractor_6}
+## ExperimentalDetectronROIFeatureExtractor <a name="ExperimentalDetectronROIFeatureExtractor"></a>
 
 **Versioned name**: *ExperimentalDetectronROIFeatureExtractor-6*
 

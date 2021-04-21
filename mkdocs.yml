@@ -1,0 +1,312 @@
+site_name: OpenVINO Toolkit
+nav:
+  Converting and Preparing Models:
+    Model Optimizer Developer Guide:
+      Model Optimizer Developer Guide: docs/MO_DG/Deep_Learning_Model_Optimizer_DevGuide.md
+      Preparing and Optimizing Your Trained Model:
+        Preparing and Optimizing Your Trained Model: docs/MO_DG/prepare_model/Prepare_Trained_Model.md
+        Configuring the Model Optimizer: docs/MO_DG/prepare_model/Config_Model_Optimizer.md
+        Converting a Model to Intermediate Representation (IR):
+          Converting a Model to Intermediate Representation (IR): docs/MO_DG/prepare_model/convert_model/Converting_Model.md
+          Converting a Model Using General Conversion Parameters: docs/MO_DG/prepare_model/convert_model/Converting_Model_General.md
+          Converting a Caffe* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_Caffe.md
+          Converting a TensorFlow* Model:
+            Converting a TensorFlow* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_TensorFlow.md
+            Converting YOLO* Models from DarkNet to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_YOLO_From_Tensorflow.md
+            Converting FaceNet Models from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_FaceNet_From_Tensorflow.md
+            Converting Neural Collaborative Filtering Model from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_NCF_From_Tensorflow.md
+            Converting DeepSpeech Model from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_DeepSpeech_From_Tensorflow.md
+            Converting Language Model on One Billion Word Benchmark from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_lm_1b_From_Tensorflow.md
+            Converting TensorFlow* Object Detection API Models: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_Object_Detection_API_Models.md
+            Converting TensorFlow*-Slim Image Classification Model Library Models: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_Slim_Library_Models.md
+            Converting CRNN Model from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_CRNN_From_Tensorflow.md
+            Converting GNMT from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_GNMT_From_Tensorflow.md
+            Converting BERT from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_BERT_From_Tensorflow.md
+            Convert TensorFlow* XLNet Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_XLNet_From_Tensorflow.md
+            Converting TensorFlow* Wide and Deep Models from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_WideAndDeep_Family_Models.md
+            Converting EfficientDet Models from TensorFlow: docs/MO_DG/prepare_model/convert_model/tf_specific/Convert_EfficientDet_Models.md
+          Converting a MXNet* Model:
+            Converting a MXNet* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_MxNet.md
+            Converting a Style Transfer Model from MXNet: docs/MO_DG/prepare_model/convert_model/mxnet_specific/Convert_Style_Transfer_From_MXNet.md
+            Converting GluonCV* Models: docs/MO_DG/prepare_model/convert_model/mxnet_specific/Convert_GluonCV_Models.md
+          Converting Your Kaldi* Model:
+            Converting Your Kaldi* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_Kaldi.md
+            Convert Kaldi* ASpIRE Chain Time Delay Neural Network (TDNN) Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/kaldi_specific/Aspire_Tdnn_Model.md
+          Converting Your ONNX* Model:
+            Converting Your ONNX* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_ONNX.md
+            Convert ONNX* Faster R-CNN Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/onnx_specific/Convert_Faster_RCNN.md
+            Convert ONNX* Mask R-CNN Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/onnx_specific/Convert_Mask_RCNN.md
+            Convert ONNX* GPT-2 Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/onnx_specific/Convert_GPT2.md
+            Convert DLRM ONNX* Model to the Intermediate Representation: docs/MO_DG/prepare_model/convert_model/onnx_specific/Convert_DLRM.md
+            Converting Your PyTorch* Model:
+              Converting Your PyTorch* Model: docs/MO_DG/prepare_model/convert_model/Convert_Model_From_PyTorch.md
+              Convert PyTorch* QuartzNet Model: docs/MO_DG/prepare_model/convert_model/pytorch_specific/Convert_QuartzNet.md
+              Convert PyTorch* YOLACT Model: docs/MO_DG/prepare_model/convert_model/pytorch_specific/Convert_YOLACT.md
+              Convert PyTorch* F3Net Model: docs/MO_DG/prepare_model/convert_model/pytorch_specific/Convert_F3Net.md
+          Model Optimizations Techniques: docs/MO_DG/prepare_model/Model_Optimization_Techniques.md
+          Cutting off Parts of a Model: docs/MO_DG/prepare_model/convert_model/Cutting_Model.md
+          Sub-graph Replacement in Model Optimizer: docs/MO_DG/prepare_model/customize_model_optimizer/Subgraph_Replacement_Model_Optimizer.md
+          Supported Framework Layers: docs/MO_DG/prepare_model/Supported_Frameworks_Layers.md
+          '[DEPRECATED] IR Notation Reference': docs/MO_DG/prepare_model/convert_model/Legacy_IR_Layers_Catalog_Spec.md
+          IR suitable for INT8 inference: docs/MO_DG/prepare_model/convert_model/IR_suitable_for_INT8_inference.md
+        Model Optimizer Extensibility:
+          Model Optimizer Extensibility: docs/MO_DG/prepare_model/customize_model_optimizer/Customize_Model_Optimizer.md
+          Extending Model Optimizer with New Primitives: docs/MO_DG/prepare_model/customize_model_optimizer/Extending_Model_Optimizer_with_New_Primitives.md
+          Extending Model Optimizer with Caffe* Python Layers: docs/MO_DG/prepare_model/customize_model_optimizer/Extending_Model_Optimizer_with_Caffe_Python_Layers.md
+          Extending Model Optimizer for Custom MXNet* Operations: docs/MO_DG/prepare_model/customize_model_optimizer/Extending_MXNet_Model_Optimizer_with_New_Primitives.md
+          Legacy Mode for Caffe* Custom Layers: docs/MO_DG/prepare_model/customize_model_optimizer/Legacy_Mode_for_Caffe_Custom_Layers.md
+          '[DEPRECATED] Offloading Sub-Graph Inference': https://docs.openvinotoolkit.org/2020.1/_docs_MO_DG_prepare_model_customize_model_optimizer_Offloading_Sub_Graph_Inference.html
+      Model Optimizer Frequently Asked Questions: docs/MO_DG/prepare_model/Model_Optimizer_FAQ.md
+      Known Issues: docs/MO_DG/Known_Issues_Limitations.md
+    Model Downloader: '@ref omz_tools_downloader'
+    Custom Operations Guide:
+      Custom Operations Guide: docs/HOWTO/Custom_Layers_Guide.md
+  Intermediate Representation and Operations Sets:
+    Intermediate Representation and Operations Sets: docs/MO_DG/IR_and_opsets.md
+    Available Operations Sets:
+      Available Operations Sets: docs/ops/opset.md
+      opset7 Specification: docs/ops/opset7.md
+      opset6 Specification: docs/ops/opset6.md
+      opset5 Specification: docs/ops/opset5.md
+      opset4 Specification: docs/ops/opset4.md
+      opset3 Specification: docs/ops/opset3.md
+      opset2 Specification: docs/ops/opset2.md
+      opset1 Specification: docs/ops/opset1.md
+    Operations Specifications:
+      Abs-1: docs/ops/arithmetic/Abs_1.md
+      Acos-1: docs/ops/arithmetic/Acos_1.md
+      Acosh-3: docs/ops/arithmetic/Acosh_3.md
+      Add-1: docs/ops/arithmetic/Add_1.md
+      Asin-1: docs/ops/arithmetic/Asin_1.md
+      Asinh-3: docs/ops/arithmetic/Asinh_3.md
+      Assign-3: docs/ops/infrastructure/Assign_3.md
+      Atan-1: docs/ops/arithmetic/Atan_1.md
+      Atanh-3: docs/ops/arithmetic/Atanh_3.md
+      AvgPool-1: docs/ops/pooling/AvgPool_1.md
+      BatchNormInference-1: docs/ops/normalization/BatchNormInference_1.md
+      BatchNormInference-5: docs/ops/normalization/BatchNormInference_5.md
+      BatchToSpace-2: docs/ops/movement/BatchToSpace_2.md
+      BinaryConvolution-1: docs/ops/convolution/BinaryConvolution_1.md
+      Broadcast-1: docs/ops/movement/Broadcast_1.md
+      Broadcast-3: docs/ops/movement/Broadcast_3.md
+      Bucketize-3: docs/ops/condition/Bucketize_3.md
+      CTCGreedyDecoder-1: docs/ops/sequence/CTCGreedyDecoder_1.md
+      CTCGreedyDecoderSeqLen-6: docs/ops/sequence/CTCGreedyDecoderSeqLen_6.md
+      Ceiling-1: docs/ops/arithmetic/Ceiling_1.md
+      Clamp-1: docs/ops/activation/Clamp_1.md
+      Concat-1: docs/ops/movement/Concat_1.md
+      Constant-1: docs/ops/infrastructure/Constant_1.md
+      ConvertLike-1: docs/ops/type/ConvertLike_1.md
+      Convert-1: docs/ops/type/Convert_1.md
+      ConvolutionBackpropData-1: docs/ops/convolution/ConvolutionBackpropData_1.md
+      Convolution-1: docs/ops/convolution/Convolution_1.md
+      Cos-1: docs/ops/arithmetic/Cos_1.md
+      Cosh-1: docs/ops/arithmetic/Cosh_1.md
+      CTCLoss-4: docs/ops/sequence/CTCLoss_4.md
+      CumSum: docs/ops/arithmetic/CumSum_3.md
+      DeformableConvolution-1: docs/ops/convolution/DeformableConvolution_1.md
+      DeformablePSROIPooling-1: docs/ops/detection/DeformablePSROIPooling_1.md
+      DepthToSpace-1: docs/ops/movement/DepthToSpace_1.md
+      DetectionOutput-1: docs/ops/detection/DetectionOutput_1.md
+      DFT-7: docs/ops/signals/DFT_7.md
+      Divide-1: docs/ops/arithmetic/Divide_1.md
+      Einsum-7: docs/ops/matrix/Einsum_7.md
+      Elu-1: docs/ops/activation/Elu_1.md
+      EmbeddingBagOffsetsSum-3: docs/ops/sparse/EmbeddingBagOffsetsSum_3.md
+      EmbeddingBagPackedSum-3: docs/ops/sparse/EmbeddingBagPackedSum_3.md
+      EmbeddingSegmentsSum-3: docs/ops/sparse/EmbeddingSegmentsSum_3.md
+      Equal-1: docs/ops/comparison/Equal_1.md
+      Erf-1: docs/ops/arithmetic/Erf_1.md
+      Exp-1: docs/ops/activation/Exp_1.md
+      ExperimentalDetectronDetectionOutput-6: docs/ops/detection/ExperimentalDetectronDetectionOutput_6.md
+      ExperimentalDetectronGenerateProposalsSingleImage-6: docs/ops/detection/ExperimentalDetectronGenerateProposalsSingleImage_6.md
+      ExperimentalDetectronPriorGridGenerator-6: docs/ops/detection/ExperimentalDetectronPriorGridGenerator_6.md
+      ExperimentalDetectronROIFeatureExtractor-6: docs/ops/detection/ExperimentalDetectronROIFeatureExtractor_6.md
+      ExperimentalDetectronTopKROIs-6: docs/ops/sort/ExperimentalDetectronTopKROIs_6.md
+      ExtractImagePatches-3: docs/ops/movement/ExtractImagePatches_3.md
+      FakeQuantize-1: docs/ops/quantization/FakeQuantize_1.md
+      FloorMod-1: docs/ops/arithmetic/FloorMod_1.md
+      Floor_1: docs/ops/arithmetic/Floor_1.md
+      GRN-1: docs/ops/normalization/GRN_1.md
+      GRUCell-3: docs/ops/sequence/GRUCell_3.md
+      GRUSequence-5: docs/ops/sequence/GRUSequence_5.md
+      GatherTree-1: docs/ops/movement/GatherTree_1.md
+      Gather-1: docs/ops/movement/Gather_1.md
+      Gather-7: docs/ops/movement/Gather_7.md
+      GatherElements-6: docs/ops/movement/GatherElements_6.md
+      GatherND-5: docs/ops/movement/GatherND_5.md
+      Gelu-2: docs/ops/activation/GELU_2.md
+      Gelu-7: docs/ops/activation/GELU_7.md
+      GreaterEqual-1: docs/ops/comparison/GreaterEqual_1.md
+      Greater-1: docs/ops/comparison/Greater_1.md
+      GroupConvolutionBackpropData-1: docs/ops/convolution/GroupConvolutionBackpropData_1.md
+      GroupConvolution-1: docs/ops/convolution/GroupConvolution_1.md
+      HardSigmoid-1: docs/ops/activation/HardSigmoid_1.md
+      HSigmoid-5: docs/ops/activation/HSigmoid_5.md
+      HSwish-4: docs/ops/activation/HSwish_4.md
+      IDFT-7: docs/ops/signals/IDFT_7.md
+      Interpolate-1: docs/ops/image/Interpolate_1.md
+      Interpolate-4: docs/ops/image/Interpolate_4.md
+      LRN-1: docs/ops/normalization/LRN_1.md
+      LSTMCell-1: docs/ops/sequence/LSTMCell_1.md
+      LSTMSequence-1: docs/ops/sequence/LSTMSequence_1.md
+      LessEqual-1: docs/ops/comparison/LessEqual_1.md
+      Less-1: docs/ops/comparison/Less_1.md
+      Log-1: docs/ops/arithmetic/Log_1.md
+      LogicalAnd-1: docs/ops/logical/LogicalAnd_1.md
+      LogicalNot-1: docs/ops/logical/LogicalNot_1.md
+      LogicalOr-1: docs/ops/logical/LogicalOr_1.md
+      LogicalXor-1: docs/ops/logical/LogicalXor_1.md
+      LogSoftmax-5: docs/ops/activation/LogSoftmax_5.md
+      Loop-5: docs/ops/infrastructure/Loop_5.md
+      MVN-1: docs/ops/normalization/MVN_1.md
+      MVN-6: docs/ops/normalization/MVN_6.md
+      MatMul-1: docs/ops/matrix/MatMul_1.md
+      MaxPool-1: docs/ops/pooling/MaxPool_1.md
+      Maximum-1: docs/ops/arithmetic/Maximum_1.md
+      Minimum-1: docs/ops/arithmetic/Minimum_1.md
+      Mish-4: docs/ops/activation/Mish_4.md
+      Mod-1: docs/ops/arithmetic/Mod_1.md
+      Multiply-1: docs/ops/arithmetic/Multiply_1.md
+      Negative-1: docs/ops/arithmetic/Negative_1.md
+      NonMaxSuppression-1: docs/ops/sort/NonMaxSuppression_1.md
+      NonMaxSuppression-3: docs/ops/sort/NonMaxSuppression_3.md
+      NonMaxSuppression-4: docs/ops/sort/NonMaxSuppression_4.md
+      NonMaxSuppression-5: docs/ops/sort/NonMaxSuppression_5.md
+      NonZero-3: docs/ops/condition/NonZero_3.md
+      NormalizeL2-1: docs/ops/normalization/NormalizeL2_1.md
+      NotEqual-1: docs/ops/comparison/NotEqual_1.md
+      OneHot-1: docs/ops/sequence/OneHot_1.md
+      PReLU-1: docs/ops/activation/PReLU_1.md
+      PSROIPooling-1: docs/ops/detection/PSROIPooling_1.md
+      Pad-1: docs/ops/movement/Pad_1.md
+      Parameter-1: docs/ops/infrastructure/Parameter_1.md
+      Power-1: docs/ops/arithmetic/Power_1.md
+      PriorBoxClustered-1: docs/ops/detection/PriorBoxClustered_1.md
+      PriorBox-1: docs/ops/detection/PriorBox_1.md
+      Proposal-1: docs/ops/detection/Proposal_1.md
+      Proposal-4: docs/ops/detection/Proposal_4.md
+      Range-1: docs/ops/generation/Range_1.md
+      Range-4: docs/ops/generation/Range_4.md
+      ReadValue-3: docs/ops/infrastructure/ReadValue_3.md
+      ReLU-1: docs/ops/activation/ReLU_1.md
+      ReduceL1-4: docs/ops/reduction/ReduceL1_4.md
+      ReduceL2-4: docs/ops/reduction/ReduceL2_4.md
+      ReduceLogicalAnd-1: docs/ops/reduction/ReduceLogicalAnd_1.md
+      ReduceLogicalOr-1: docs/ops/reduction/ReduceLogicalOr_1.md
+      ReduceMax-1: docs/ops/reduction/ReduceMax_1.md
+      ReduceMean-1: docs/ops/reduction/ReduceMean_1.md
+      ReduceMin-1: docs/ops/reduction/ReduceMin_1.md
+      ReduceProd-1: docs/ops/reduction/ReduceProd_1.md
+      ReduceSum-1: docs/ops/reduction/ReduceSum_1.md
+      RegionYolo-1: docs/ops/detection/RegionYolo_1.md
+      ReorgYolo-1: docs/ops/detection/ReorgYolo_1.md
+      Reshape-1: docs/ops/shape/Reshape_1.md
+      Result-1: docs/ops/infrastructure/Result_1.md
+      Reverse: docs/ops/movement/Reverse_1.md
+      ReverseSequence-1: docs/ops/movement/ReverseSequence_1.md
+      RNNCell-3: docs/ops/sequence/RNNCell_3.md
+      RNNSequence-5: docs/ops/sequence/RNNSequence_5.md
+      ROIAlign-3: docs/ops/detection/ROIAlign_3.md
+      ROIPooling-1: docs/ops/detection/ROIPooling_1.md
+      Roll-7: docs/ops/movement/Roll_7.md
+      Round-5: docs/ops/arithmetic/Round_5.md
+      ScatterElementsUpdate-3: docs/ops/movement/ScatterElementsUpdate_3.md
+      ScatterNDUpdate: docs/ops/movement/ScatterNDUpdate_3.md
+      ScatterUpdate-3: docs/ops/movement/ScatterUpdate_3.md
+      Select-1: docs/ops/condition/Select_1.md
+      Selu-1: docs/ops/activation/Selu_1.md
+      ShapeOf-1: docs/ops/shape/ShapeOf_1.md
+      ShapeOf-3: docs/ops/shape/ShapeOf_3.md
+      ShuffleChannels-1: docs/ops/movement/ShuffleChannels_1.md
+      Sigmoid-1: docs/ops/activation/Sigmoid_1.md
+      Sign-1: docs/ops/arithmetic/Sign_1.md
+      Sin-1: docs/ops/arithmetic/Sin_1.md
+      Sinh-1: docs/ops/arithmetic/Sinh_1.md
+      SoftMax-1: docs/ops/activation/SoftMax_1.md
+      SoftPlus-4: docs/ops/activation/SoftPlus_4.md
+      SpaceToBatch-2: docs/ops/movement/SpaceToBatch_2.md
+      SpaceToDepth-1: docs/ops/movement/SpaceToDepth_1.md
+      Split-1: docs/ops/movement/Split_1.md
+      Sqrt-1: docs/ops/arithmetic/Sqrt_1.md
+      SquaredDifference-1: docs/ops/arithmetic/SquaredDifference_1.md
+      Squeeze-1: docs/ops/shape/Squeeze_1.md
+      StridedSlice-1: docs/ops/movement/StridedSlice_1.md
+      Subtract-1: docs/ops/arithmetic/Subtract_1.md
+      Swish-4: docs/ops/activation/Swish_4.md
+      Tan-1: docs/ops/arithmetic/Tan_1.md
+      Tanh-1: docs/ops/arithmetic/Tanh_1.md
+      TensorIterator-1: docs/ops/infrastructure/TensorIterator_1.md
+      Tile-1: docs/ops/movement/Tile_1.md
+      TopK-1: docs/ops/sort/TopK_1.md
+      TopK-3: docs/ops/sort/TopK_3.md
+      Transpose-1: docs/ops/movement/Transpose_1.md
+      Unsqueeze-1: docs/ops/shape/Unsqueeze_1.md
+      VariadicSplit-1: docs/ops/movement/VariadicSplit_1.md
+  Deploying Inference:
+    Deploying Inference: docs/IE_DG/Deep_Learning_Inference_Engine_DevGuide.md
+    Inference Engine Developer Guide:
+      Inference Engine Developer Guide: docs/IE_DG/Deep_Learning_Inference_Engine_DevGuide.md
+      Inference Engine API Changes History: docs/IE_DG/API_Changes.md
+      Inference Engine Memory primitives: docs/IE_DG/Memory_primitives.md
+      Inference Engine Device Query API: docs/IE_DG/InferenceEngine_QueryAPI.md
+      Inference Engine Extensibility Mechanism:
+        Inference Engine Extensibility Mechanism: docs/IE_DG/Extensibility_DG/Intro.md
+        Extension Library: docs/IE_DG/Extensibility_DG/Extension.md
+        Custom Operations: docs/IE_DG/Extensibility_DG/AddingNGraphOps.md
+        CPU Kernels Extensibility: docs/IE_DG/Extensibility_DG/CPU_Kernel.md
+        GPU Kernels Extensibility: docs/IE_DG/Extensibility_DG/GPU_Kernel.md
+        VPU Kernels Extensibility: docs/IE_DG/Extensibility_DG/VPU_Kernel.md
+        Build Extension Library Using CMake: docs/IE_DG/Extensibility_DG/Building.md
+        Custom ONNX operators: docs/IE_DG/Extensibility_DG/Custom_ONNX_Ops.md
+      Integrate the Inference Engine with Your Application: docs/IE_DG/Integrate_with_customer_application_new_API.md
+      '[DEPRECATED] Migration from Inference Engine Plugin API to Core API': docs/IE_DG/Migration_CoreAPI.md
+      Introduction to Performance Topics: docs/IE_DG/Intro_to_Performance.md
+      Inference Engine Python* API Overview: inference-engine/ie_bridges/python/docs/api_overview.md
+      Read an ONNX model: docs/IE_DG/ONNX_Support.md
+      '[DEPRECATED] Import an ONNX model': docs/IE_DG/OnnxImporterTutorial.md
+      Using Dynamic Batching Feature: docs/IE_DG/DynamicBatching.md
+      Using Static Shape Infer Feature: docs/IE_DG/ShapeInference.md
+      Using GPU kernels tuning: docs/IE_DG/GPU_Kernels_Tuning.md
+      Using Bfloat16 Inference:
+        Using Bfloat16 Inference: docs/IE_DG/Bfloat16Inference.md
+      Using Low-Precision 8-bit Integer Inference:
+        Using Low-Precision 8-bit Integer Inference: docs/IE_DG/Int8Inference.md
+      Utilities to Validate Your Converted Model:
+        Utilities to Validate Your Converted Model: inference-engine/tools/cross_check_tool/README.md
+        Using Cross Check Tool for Per-Layer Comparison Between Plugins: inference-engine/tools/cross_check_tool/README.md
+      Introduction to OpenVINO state API: docs/IE_DG/network_state_intro.md
+      Supported Devices:
+        Supported Devices: docs/IE_DG/supported_plugins/Supported_Devices.md
+        GPU Plugin:
+          GPU Plugin: docs/IE_DG/supported_plugins/CL_DNN.md
+          RemoteBlob API of GPU Plugin: docs/IE_DG/supported_plugins/GPU_RemoteBlob_API.md
+        CPU Plugin: docs/IE_DG/supported_plugins/CPU.md
+        '[DEPRECATED] FPGA Plugin': docs/IE_DG/supported_plugins/FPGA.md
+        VPU Plugins:
+          VPU Plugins: docs/IE_DG/supported_plugins/VPU.md
+          MYRIAD Plugin: docs/IE_DG/supported_plugins/MYRIAD.md
+          HDDL Plugin: docs/IE_DG/supported_plugins/HDDL.md
+        Heterogeneous Plugin: docs/IE_DG/supported_plugins/HETERO.md
+        Multi-Device Plugin: docs/IE_DG/supported_plugins/MULTI.md
+        GNA Plugin: docs/IE_DG/supported_plugins/GNA.md
+      Known Issues: docs/IE_DG/Known_Issues_Limitations.md
+      Glossary: docs/IE_DG/Glossary.md
+    nGraph Developer Guide:
+      nGraph Developer Guide: docs/nGraph_DG/nGraph_dg.md
+      Introduction: docs/nGraph_DG/intro.md
+      Basic Concepts: docs/nGraph_DG/nGraph_basic_concepts.md
+      Operation sets: docs/MO_DG/IR_and_opsets.md
+      Graph building: docs/nGraph_DG/build_function.md
+      Transfomations: docs/nGraph_DG/nGraphTransformation.md
+      Debug capabilities: docs/nGraph_DG/nGraph_debug_capabilities.md
+      Python API: docs/nGraph_DG/nGraph_Python_API.md
+    Deployment Manager Guide: docs/install_guides/deployment-manager-tool.md
+    Compile Tool: inference-engine/tools/compile_tool/README.md
+    API References:
+      Inference Engine C API Reference: ie_c_api/modules.html
+      Inference Engine Python API Reference: ie_python_api/annotated.html
+      nGraph C++ API Reference: ngraph_cpp_api/annotated.html
+      nGraph Python API Reference: ngraph_python_api/files.html
+    Inference Engine Plugin Development Guide: ie_plugin_api/index.html
+theme: readthedocs

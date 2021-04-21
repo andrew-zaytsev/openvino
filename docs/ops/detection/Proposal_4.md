@@ -1,4 +1,4 @@
-## Proposal <a name="Proposal"></a> {#openvino_docs_ops_detection_Proposal_4}
+## Proposal <a name="Proposal"></a>
 
 **Versioned name**: *Proposal-4*
 

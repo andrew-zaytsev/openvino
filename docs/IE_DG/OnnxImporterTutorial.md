@@ -1,4 +1,4 @@
-# ONNX* Importer API Tutorial {#openvino_docs_IE_DG_OnnxImporterTutorial}
+# ONNX* Importer API Tutorial
 
 > **NOTE**: This tutorial is deprecated. Since OpenVINO™ 2020.4 version, Inference Engine enables reading ONNX models via the Inference Engine Core API
 > and there is no need to use directly the low-level ONNX* Importer API anymore. 

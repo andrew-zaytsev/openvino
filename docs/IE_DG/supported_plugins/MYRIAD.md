@@ -1,4 +1,4 @@
-# MYRIAD Plugin {#openvino_docs_IE_DG_supported_plugins_MYRIAD}
+# MYRIAD Plugin
 
 ## Introducing MYRIAD Plugin
 

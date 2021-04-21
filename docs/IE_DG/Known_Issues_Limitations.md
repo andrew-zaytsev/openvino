@@ -1,4 +1,4 @@
-# Known Issues and Limitations {#openvino_docs_IE_DG_Known_Issues_Limitations}
+# Known Issues and Limitations
 
 ## Multiple OpenMP Loadings
 

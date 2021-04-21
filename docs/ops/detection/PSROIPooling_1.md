@@ -1,4 +1,4 @@
-## PSROIPooling <a name="PSROIPooling"></a> {#openvino_docs_ops_detection_PSROIPooling_1}
+## PSROIPooling <a name="PSROIPooling"></a>
 
 **Versioned name**: *PSROIPooling-1*
 

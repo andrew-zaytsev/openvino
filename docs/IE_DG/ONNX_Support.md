@@ -1,4 +1,4 @@
-# ONNX format support in the OpenVINO™ {#openvino_docs_IE_DG_ONNX_Support}
+# ONNX format support in the OpenVINO™
 
 Starting from the 2020.4 release, OpenVINO™ supports reading native ONNX models.
 `Core::ReadNetwork()` method provides a uniform way to read models from IR or ONNX format, it is a recommended approach to reading models.

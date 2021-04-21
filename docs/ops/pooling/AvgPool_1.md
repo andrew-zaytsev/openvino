@@ -1,4 +1,4 @@
-## AvgPool<a name="AvgPool"></a> {#openvino_docs_ops_pooling_AvgPool_1}
+## AvgPool<a name="AvgPool"></a>
 
 **Versioned name**: *AvgPool-1*
 

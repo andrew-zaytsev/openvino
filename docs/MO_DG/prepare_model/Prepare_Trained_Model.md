@@ -1,4 +1,4 @@
-# Preparing and Optimizing Your Trained Model {#openvino_docs_MO_DG_prepare_model_Prepare_Trained_Model}
+# Preparing and Optimizing Your Trained Model
 
 Inference Engine enables _deploying_ your network model trained with any of supported deep learning frameworks: Caffe\*, TensorFlow\*, Kaldi\*, MXNet\* or converted to the ONNX\* format. To perform the inference, the Inference Engine does not operate with the original model, but with its Intermediate Representation (IR), which is optimized for execution on end-point target devices. To generate an IR for your trained model, the Model Optimizer tool is used.
 

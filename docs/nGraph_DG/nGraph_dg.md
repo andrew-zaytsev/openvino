@@ -1,4 +1,4 @@
-# nGraph Developer Guide {#openvino_docs_nGraph_DG_DevGuide}
+# nGraph Developer Guide
 
 ## Table of Contents
 

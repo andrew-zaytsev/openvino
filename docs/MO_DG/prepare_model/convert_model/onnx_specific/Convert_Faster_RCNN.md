@@ -1,4 +1,4 @@
-# Convert ONNX* Faster R-CNN Model to the Intermediate Representation {#openvino_docs_MO_DG_prepare_model_convert_model_onnx_specific_Convert_Faster_RCNN}
+# Convert ONNX* Faster R-CNN Model to the Intermediate Representation
 
 These instructions are applicable only to the Faster R-CNN model converted to the ONNX* file format from the [facebookresearch/maskrcnn-benchmark model](https://github.com/facebookresearch/maskrcnn-benchmark).
 

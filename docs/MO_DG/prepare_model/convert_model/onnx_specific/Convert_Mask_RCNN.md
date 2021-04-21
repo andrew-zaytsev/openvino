@@ -1,4 +1,4 @@
-# Convert ONNX* Mask R-CNN Model to the Intermediate Representation {#openvino_docs_MO_DG_prepare_model_convert_model_onnx_specific_Convert_Mask_RCNN}
+# Convert ONNX* Mask R-CNN Model to the Intermediate Representation
 
 These instructions are applicable only to the [Mask R-CNN model](https://onnxzoo.blob.core.windows.net/models/opset_10/mask_rcnn/mask_rcnn_R_50_FPN_1x.onnx) converted to the ONNX* file format from the [facebookresearch/maskrcnn-benchmark model](https://github.com/facebookresearch/maskrcnn-benchmark).
 

@@ -1,4 +1,4 @@
-# Inference Engine API Changes History {#openvino_docs_IE_DG_API_Changes}
+# Inference Engine API Changes History
 
 The sections below contain detailed list of changes made to the Inference Engine API in recent releases.
 

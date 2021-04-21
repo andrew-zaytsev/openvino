@@ -1,4 +1,4 @@
-# Build Plugin Using CMake* {#plugin_build}
+# Build Plugin Using CMake*
 
 Inference Engine build infrastructure provides the Inference Engine Developer Package for plugin development.
 

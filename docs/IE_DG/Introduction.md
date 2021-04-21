@@ -1,4 +1,4 @@
-# Introduction to Intel® Deep Learning Deployment Toolkit {#openvino_docs_IE_DG_Introduction}
+# Introduction to Intel® Deep Learning Deployment Toolkit
 
 ## Deployment Challenges
 

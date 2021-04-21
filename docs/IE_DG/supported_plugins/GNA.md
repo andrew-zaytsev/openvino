@@ -1,4 +1,4 @@
-# GNA Plugin {#openvino_docs_IE_DG_supported_plugins_GNA}
+# GNA Plugin
 
 ## Introducing the GNA Plugin
 

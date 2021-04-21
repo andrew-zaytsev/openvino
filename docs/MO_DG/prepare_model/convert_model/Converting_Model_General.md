@@ -1,4 +1,4 @@
-# Converting a Model Using General Conversion Parameters {#openvino_docs_MO_DG_prepare_model_convert_model_Converting_Model_General}
+# Converting a Model Using General Conversion Parameters
 
 To simply convert a model trained by any supported framework, run the Model Optimizer launch script ``mo.py`` with
 specifying a path to the input model file:

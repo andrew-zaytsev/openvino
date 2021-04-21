@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for Linux* Using YUM Repository {#openvino_docs_install_guides_installing_openvino_yum}
+# Install Intel® Distribution of OpenVINO™ toolkit for Linux* Using YUM Repository
 
 This guide provides installation steps for the Intel® Distribution of OpenVINO™ toolkit for Linux* distributed through the YUM repository.
 

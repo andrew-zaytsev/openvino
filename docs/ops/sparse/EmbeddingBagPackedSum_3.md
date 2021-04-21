@@ -1,4 +1,4 @@
-## EmbeddingBagPackedSum <a name="EmbeddingBagPackedSum"></a> {#openvino_docs_ops_sparse_EmbeddingBagPackedSum_3}
+## EmbeddingBagPackedSum <a name="EmbeddingBagPackedSum"></a>
 
 **Versioned name**: *EmbeddingBagPackedSum-3*
 

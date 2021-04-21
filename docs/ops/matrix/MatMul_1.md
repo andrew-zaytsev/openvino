@@ -1,4 +1,4 @@
-## MatMul <a name="MatMul"></a> {#openvino_docs_ops_matrix_MatMul_1}
+## MatMul <a name="MatMul"></a>
 
 **Versioned name**: *MatMul-1*
 

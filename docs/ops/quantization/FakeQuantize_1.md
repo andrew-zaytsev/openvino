@@ -1,4 +1,4 @@
-## FakeQuantize <a name="FakeQuantize"></a> {#openvino_docs_ops_quantization_FakeQuantize_1}
+## FakeQuantize <a name="FakeQuantize"></a>
 
 **Versioned name**: *FakeQuantize-1*
 

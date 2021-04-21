@@ -1,4 +1,4 @@
-# nGraph Basic Concepts {#openvino_docs_nGraph_DG_basic_concepts}
+# nGraph Basic Concepts
 
 The nGraph represents neural networks in uniform format. User can create different operations and combined their to one `ngraph::Function`.
 

@@ -1,4 +1,4 @@
-# Model Optimization Techniques  {#openvino_docs_MO_DG_prepare_model_Model_Optimization_Techniques}
+# Model Optimization Techniques 
 
 Optimization offers methods to accelerate inference with the convolution neural networks (CNN) that do not require model retraining.
 

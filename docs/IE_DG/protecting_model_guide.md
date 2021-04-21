@@ -1,4 +1,4 @@
-# Using Encrypted Models with OpenVINO&trade;  {#openvino_docs_IE_DG_protecting_model_guide}
+# Using Encrypted Models with OpenVINO&trade; 
 
 Deploying deep-learning capabilities to edge devices can present security
 challenges. For example, ensuring inference integrity or providing copyright

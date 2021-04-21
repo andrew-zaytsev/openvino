@@ -1,4 +1,4 @@
-## Assign <a name="Assign"></a> {#openvino_docs_ops_infrastructure_Assign_3}
+## Assign <a name="Assign"></a>
 
 **Versioned name**: *Assign-3*
 

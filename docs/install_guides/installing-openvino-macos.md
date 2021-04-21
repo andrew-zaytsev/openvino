@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for macOS* {#openvino_docs_install_guides_installing_openvino_macos}
+# Install Intel® Distribution of OpenVINO™ toolkit for macOS*
 
 > **NOTES**:
 > - The Intel® Distribution of OpenVINO™ is supported on macOS\* 10.15.x versions.

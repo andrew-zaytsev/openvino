@@ -1,4 +1,4 @@
-# Speech Library and Speech Recognition Demos {#openvino_inference_engine_samples_speech_libs_and_demos_Speech_libs_and_demos}
+# Speech Library and Speech Recognition Demos
 
 Intel® distributions of OpenVINO&trade; toolkit for Linux* OS and Windows* OS provide a set of libraries and demos to
 demonstrate end-to-end speech recognition, as well as new acoustic and language models that can work with these demos.

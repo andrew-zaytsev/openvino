@@ -1,4 +1,4 @@
-# OpenVINO&trade; Model Server {#openvino_docs_ovms}
+# OpenVINO&trade; Model Server
 
 OpenVINO&trade; Model Server (OVMS) is a scalable, high-performance solution for serving machine learning models optimized for Intel&reg; architectures. 
 The server provides an inference service via gRPC or REST API - making it easy to deploy new algorithms and AI experiments using the same 

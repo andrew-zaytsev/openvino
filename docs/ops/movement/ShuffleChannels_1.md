@@ -1,4 +1,4 @@
-## ShuffleChannels <a name="ShuffleChannels"></a> {#openvino_docs_ops_movement_ShuffleChannels_1}
+## ShuffleChannels <a name="ShuffleChannels"></a>
 
 **Versioned name**: *ShuffleChannels-1*
 

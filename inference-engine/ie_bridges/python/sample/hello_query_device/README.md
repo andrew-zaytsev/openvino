@@ -1,4 +1,4 @@
-# Hello Query Device Python* Sample {#openvino_inference_engine_ie_bridges_python_sample_hello_query_device_README}
+# Hello Query Device Python* Sample
 
 This sample demonstrates how to show Inference Engine devices and prints their metrics and default configuration values, using [Query Device API feature](../../../../../docs/IE_DG/InferenceEngine_QueryAPI.md).
 

@@ -1,4 +1,4 @@
-## TopK <a name="TopK"></a> {#openvino_docs_ops_sort_TopK_3}
+## TopK <a name="TopK"></a>
 
 **Versioned name**: *TopK-3*
 

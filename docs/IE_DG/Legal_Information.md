@@ -1,4 +1,4 @@
-# Legal Information {#openvino_docs_IE_DG_Legal_Information}
+# Legal Information
 
 <sup>No license (express or implied, by estoppel or otherwise) to any intellectual property rights is granted by this document.</sup><br/>
 <sup>Intel disclaims all express and implied warranties, including without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement, as well as any warranty arising from course of performance, course of dealing, or usage in trade.</sup><br/>

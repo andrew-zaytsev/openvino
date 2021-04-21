@@ -1,4 +1,4 @@
-## Subtract <a name="Subtract"></a> {#openvino_docs_ops_arithmetic_Subtract_1}
+## Subtract <a name="Subtract"></a>
 
 **Versioned name**: *Subtract-1*
 

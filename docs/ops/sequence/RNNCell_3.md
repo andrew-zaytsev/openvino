@@ -1,4 +1,4 @@
-## RNNCell <a name="RNNCell"></a> {#openvino_docs_ops_sequence_RNNCell_3}
+## RNNCell <a name="RNNCell"></a>
 
 **Versioned name**: *RNNCell-3*
 

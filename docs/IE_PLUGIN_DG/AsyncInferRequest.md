@@ -1,4 +1,4 @@
-# Asynchronous Inference Request {#async_infer_request}
+# Asynchronous Inference Request
 
 Asynchronous Inference Request runs an inference pipeline asynchronously in one or several task executors depending on a device pipeline structure.
 Inference Engine Plugin API provides the base InferenceEngine::AsyncInferRequestThreadSafeDefault class:

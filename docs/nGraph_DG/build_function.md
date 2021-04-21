@@ -1,4 +1,4 @@
-# Build nGraph Function {#openvino_docs_nGraph_DG_build_function}
+# Build nGraph Function
 
 This section illustrates how to construct an nGraph function 
 composed of operations from an available opset. Once created, 

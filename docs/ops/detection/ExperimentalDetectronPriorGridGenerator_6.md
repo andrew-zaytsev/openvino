@@ -1,4 +1,4 @@
-## ExperimentalDetectronPriorGridGenerator <a name="ExperimentalDetectronPriorGridGenerator"></a> {#openvino_docs_ops_detection_ExperimentalDetectronPriorGridGenerator_6}
+## ExperimentalDetectronPriorGridGenerator <a name="ExperimentalDetectronPriorGridGenerator"></a>
 
 **Versioned name**: *ExperimentalDetectronPriorGridGenerator-6*
 

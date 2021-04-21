@@ -1,4 +1,4 @@
-## OneHot <a name="OneHot"></a> {#openvino_docs_ops_sequence_OneHot_1}
+## OneHot <a name="OneHot"></a>
 
 **Versioned name**: *OneHot-1*
 

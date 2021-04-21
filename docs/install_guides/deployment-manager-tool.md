@@ -1,4 +1,4 @@
-# OpenVINO™ Deployment Manager Guide {#openvino_docs_install_guides_deployment_manager_tool}
+# OpenVINO™ Deployment Manager Guide
 
 The Deployment Manager of Intel® Distribution of OpenVINO™ creates a deployment package by assembling the model, IR files, your application, and associated dependencies into a runtime package for your target device.
 

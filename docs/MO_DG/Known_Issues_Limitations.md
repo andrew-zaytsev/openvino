@@ -1,4 +1,4 @@
-# Known Issues and Limitations in the Model Optimizer {#openvino_docs_MO_DG_Known_Issues_Limitations}
+# Known Issues and Limitations in the Model Optimizer
 
 ## Model Optimizer for TensorFlow* should be run on Intel® hardware that supports the AVX instruction set
 

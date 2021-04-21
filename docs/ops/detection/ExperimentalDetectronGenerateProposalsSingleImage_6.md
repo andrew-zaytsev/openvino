@@ -1,4 +1,4 @@
-## ExperimentalDetectronGenerateProposalsSingleImage <a name="ExperimentalDetectronGenerateProposalsSingleImage"></a> {#openvino_docs_ops_detection_ExperimentalDetectronGenerateProposalsSingleImage_6}
+## ExperimentalDetectronGenerateProposalsSingleImage <a name="ExperimentalDetectronGenerateProposalsSingleImage"></a>
 
 **Versioned name**: *ExperimentalDetectronGenerateProposalsSingleImage-6*
 

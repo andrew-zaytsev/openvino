@@ -1,4 +1,4 @@
-# Executable Network {#executable_network}
+# Executable Network
 
 `ExecutableNetwork` class functionality:
 - Compile an InferenceEngine::ICNNNetwork instance to a backend specific graph representation

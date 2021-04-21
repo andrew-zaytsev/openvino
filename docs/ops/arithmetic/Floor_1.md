@@ -1,4 +1,4 @@
-## Floor <a name="Floor"></a> {#openvino_docs_ops_arithmetic_Floor_1}
+## Floor <a name="Floor"></a>
 
 **Versioned name**: *Floor-1*
 

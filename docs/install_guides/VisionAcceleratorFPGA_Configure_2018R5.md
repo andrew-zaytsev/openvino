@@ -1,4 +1,4 @@
-# Configuration Guide for the Intel® Distribution of OpenVINO™ toolkit 2018R5 and the Intel® Vision Accelerator Design with an Intel® Arria® 10 FPGA (IEI's Mustang-F100-A10) on Linux* {#openvino_docs_install_guides_VisionAcceleratorFPGA_Configure_2018R5}
+# Configuration Guide for the Intel® Distribution of OpenVINO™ toolkit 2018R5 and the Intel® Vision Accelerator Design with an Intel® Arria® 10 FPGA (IEI's Mustang-F100-A10) on Linux*
 
 > **NOTES:**
 >  * For a first-time installation, use all steps.

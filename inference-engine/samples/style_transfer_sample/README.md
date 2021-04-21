@@ -1,4 +1,4 @@
-# Style Transfer C++ Sample {#openvino_inference_engine_samples_style_transfer_sample_README}
+# Style Transfer C++ Sample
 
 This sample demonstrates how to execute an inference of style transfer models using Synchronous Inference Request API.
 

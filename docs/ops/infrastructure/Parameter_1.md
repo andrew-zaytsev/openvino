@@ -1,4 +1,4 @@
-## Parameter <a name="Parameter"></a> {#openvino_docs_ops_infrastructure_Parameter_1}
+## Parameter <a name="Parameter"></a>
 
 **Versioned name**: *Parameter-1*
 

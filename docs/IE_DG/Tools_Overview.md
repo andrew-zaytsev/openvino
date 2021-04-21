@@ -1,4 +1,4 @@
-# OpenVINO™ Tools {#openvino_docs_IE_DG_Tools_Overview}
+# OpenVINO™ Tools
 
 OpenVINO™ tools are C++ and Python\* console command line applications that can be used for models downloading, accuracy measurement, calibration and checking.
 

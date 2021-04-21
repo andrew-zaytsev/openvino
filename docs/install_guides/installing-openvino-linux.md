@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for Linux* {#openvino_docs_install_guides_installing_openvino_linux}
+# Install Intel® Distribution of OpenVINO™ toolkit for Linux*
 
 > **NOTES**:
 > - These steps apply to Ubuntu\*, CentOS\*, and Yocto\*.

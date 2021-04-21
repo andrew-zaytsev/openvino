@@ -1,4 +1,4 @@
-# Overview of OpenVINO Resources {#openvino_docs_resources_introduction}
+# Overview of OpenVINO Resources
 
 
 ## Samples

@@ -1,4 +1,4 @@
-## Abs <a name="Abs"></a> {#openvino_docs_ops_arithmetic_Abs_1}
+## Abs <a name="Abs"></a>
 
 **Versioned name**: *Abs-1*
 
