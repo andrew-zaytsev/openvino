@@ -1,4 +1,4 @@
-# Custom Operations Guide {#openvino_docs_HOWTO_Custom_Layers_Guide}
+# Custom Operations Guide
 
 The Intel® Distribution of OpenVINO™ toolkit supports neural network models trained with multiple frameworks including
 TensorFlow*, Caffe*, MXNet*, Kaldi* and ONNX* file format. The list of supported operations (layers) is different for

@@ -1,4 +1,4 @@
-# Quantized networks compute and restrictions {#quantized_networks}
+# Quantized networks compute and restrictions
 
 One of the feature of Inference Engine is the support of quantized networks with different precisions: INT8, INT4, etc.
 However, it is up to the plugin to define what exact precisions are supported by the particular HW.

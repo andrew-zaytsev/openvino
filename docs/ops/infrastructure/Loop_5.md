@@ -1,4 +1,4 @@
-## Loop <a name="Loop"></a> {#openvino_docs_ops_infrastructure_Loop_5}
+## Loop <a name="Loop"></a>
 
 **Versioned name**: *Loop-5*
 

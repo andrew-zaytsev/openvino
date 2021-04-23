@@ -1,4 +1,4 @@
-# Optimization Guide {#openvino_docs_optimization_guide_dldt_optimization_guide}
+# Optimization Guide
 
 ## Introduction
 

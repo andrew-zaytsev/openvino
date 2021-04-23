@@ -1,4 +1,4 @@
-## Convolution <a name="Convolution"></a> {#openvino_docs_ops_convolution_Convolution_1}
+## Convolution <a name="Convolution"></a>
 
 **Versioned name**: *Convolution-1*
 

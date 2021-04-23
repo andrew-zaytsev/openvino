@@ -1,4 +1,4 @@
-# INT8 vs FP32 Comparison on Select Networks and Platforms {#openvino_docs_performance_int8_vs_fp32}
+# INT8 vs FP32 Comparison on Select Networks and Platforms
 
 The table below illustrates the speed-up factor for the performance gain by switching from an FP32 representation of an OpenVINO™ supported model to its INT8 representation. 
 

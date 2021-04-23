@@ -1,4 +1,4 @@
-## Maximum <a name="Maximum"></a> {#openvino_docs_ops_arithmetic_Maximum_1}
+## Maximum <a name="Maximum"></a>
 
 **Versioned name**: *Maximum-1*
 

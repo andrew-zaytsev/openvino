@@ -1,4 +1,4 @@
-## GatherND <a name="GatherND"></a> {#openvino_docs_ops_movement_GatherND_5}
+## GatherND <a name="GatherND"></a>
 
 **Versioned name**: *GatherND-5*
 

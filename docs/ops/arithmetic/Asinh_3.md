@@ -1,4 +1,4 @@
-## Asinh <a name="Asinh"></a> {#openvino_docs_ops_arithmetic_Asinh_3}
+## Asinh <a name="Asinh"></a>
 
 **Versioned name**: *Asinh-3*
 

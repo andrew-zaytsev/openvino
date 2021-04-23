@@ -1,4 +1,4 @@
-# Overview of Transformations API {#ngraph_transformation}
+# Overview of Transformations API
 
 This guide contains all necessary information that you need to start implementing nGraph transformations.
 

@@ -1,4 +1,4 @@
-## TensorIterator <a name="TensorIterator"></a> {#openvino_docs_ops_infrastructure_TensorIterator_1}
+## TensorIterator <a name="TensorIterator"></a>
 
 **Versioned name**: *TensorIterator-1*
 

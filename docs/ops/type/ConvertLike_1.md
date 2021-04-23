@@ -1,4 +1,4 @@
-## ConvertLike <a name="ConvertLike"></a> {#openvino_docs_ops_type_ConvertLike_1}
+## ConvertLike <a name="ConvertLike"></a>
 
 **Versioned name**: *ConvertLike-1*
 

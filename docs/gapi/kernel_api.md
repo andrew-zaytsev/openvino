@@ -1,4 +1,4 @@
-# Graph API Kernel API {#openvino_docs_gapi_kernel_api}
+# Graph API Kernel API
 
 The core idea behind Graph API (G-API) is portability – a pipeline built with G-API must be portable (or at least able to be portable). It means that either it works out-of-the box when compiled for new platform, or G-API provides necessary tools to make it running there, with little-to-no changes in the algorithm itself.
 

@@ -1,4 +1,4 @@
-# Introduction to OpenVINO&trade; Security {#openvino_docs_security_guide_introduction}
+# Introduction to OpenVINO&trade; Security
 
 Deploying deep learning models for OpenVINO&trade; may raise security and privacy issues.
 Trained models are often valuable intellectual property and you may choose to protect them with encryption or other security tools.

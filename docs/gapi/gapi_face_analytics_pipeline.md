@@ -1,4 +1,4 @@
-# Building a Face Analytics Pipeline {#openvino_docs_gapi_gapi_face_analytics_pipeline}
+# Building a Face Analytics Pipeline
 
 ## Overview
 In this tutorial you will learn:

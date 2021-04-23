@@ -1,4 +1,4 @@
-# Converting GluonCV* Models {#openvino_docs_MO_DG_prepare_model_convert_model_mxnet_specific_Convert_GluonCV_Models}
+# Converting GluonCV* Models
 
 This document provides the instructions and examples on how to use Model Optimizer to convert [GluonCV SSD and YOLO-v3 models](https://gluon-cv.mxnet.io/model_zoo/detection.html) to IR.
 

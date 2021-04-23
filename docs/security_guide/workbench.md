@@ -1,4 +1,4 @@
-# Deep Learning Workbench Security {#openvino_docs_security_guide_workbench}
+# Deep Learning Workbench Security
 
 Deep Learning Workbench (DL Workbench) is a web application running within a Docker\* container.
 

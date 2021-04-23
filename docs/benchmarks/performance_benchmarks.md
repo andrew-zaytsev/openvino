@@ -1,4 +1,4 @@
-# Performance Benchmarks {#openvino_docs_performance_benchmarks}
+# Performance Benchmarks
 
 The [Intel® Distribution of OpenVINO™ toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) helps accelerate deep learning inference across a variety of Intel® processors and accelerators.  
 

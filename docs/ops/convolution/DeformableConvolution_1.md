@@ -1,4 +1,4 @@
-## DeformableConvolution<a name="DeformableConvolution"></a> {#openvino_docs_ops_convolution_DeformableConvolution_1}
+## DeformableConvolution<a name="DeformableConvolution"></a>
 
 **Versioned name**: *DeformableConvolution-1*
 

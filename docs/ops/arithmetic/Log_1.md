@@ -1,4 +1,4 @@
-## Log <a name="Log"></a> {#openvino_docs_ops_arithmetic_Log_1}
+## Log <a name="Log"></a>
 
 **Versioned name**: *Log-1*
 

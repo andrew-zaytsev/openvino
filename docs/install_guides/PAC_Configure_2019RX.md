@@ -1,4 +1,4 @@
-# Configuration Guide for Intel® Distribution of OpenVINO™ toolkit 2019R1/2019R2/2019R3/2020.1 and the Intel® Programmable Acceleration Card with Intel® Arria® 10 FPGA GX on CentOS or Ubuntu*  {#openvino_docs_install_guides_PAC_Configure_2019RX}
+# Configuration Guide for Intel® Distribution of OpenVINO™ toolkit 2019R1/2019R2/2019R3/2020.1 and the Intel® Programmable Acceleration Card with Intel® Arria® 10 FPGA GX on CentOS or Ubuntu* 
 
 ## Get Started
 

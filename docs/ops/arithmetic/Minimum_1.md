@@ -1,4 +1,4 @@
-## Minimum <a name="Minimum"></a> {#openvino_docs_ops_arithmetic_Minimum_1}
+## Minimum <a name="Minimum"></a>
 
 **Versioned name**: *Minimum-1*
 

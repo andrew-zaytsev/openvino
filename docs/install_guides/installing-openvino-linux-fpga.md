@@ -1,4 +1,4 @@
-# Install Intel® Distribution of OpenVINO™ toolkit for Linux* with FPGA Support {#openvino_docs_install_guides_installing_openvino_linux_fpga}
+# Install Intel® Distribution of OpenVINO™ toolkit for Linux* with FPGA Support
 
 ## Product Change Notice
 Intel® Distribution of OpenVINO™ toolkit for Intel® Vision Accelerator Design with an Intel® Arria® 10 FPGA and the Intel® Programmable Acceleration Card with Intel® Arria® 10 GX FPGA

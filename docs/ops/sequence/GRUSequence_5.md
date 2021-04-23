@@ -1,4 +1,4 @@
-## GRUSequence <a name="GRUSequence"></a> {#openvino_docs_ops_sequence_GRUSequence_5}
+## GRUSequence <a name="GRUSequence"></a>
 
 **Versioned name**: *GRUSequence-5*
 

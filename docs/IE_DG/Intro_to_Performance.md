@@ -1,4 +1,4 @@
-# Introduction to the Performance Topics {#openvino_docs_IE_DG_Intro_to_Performance}
+# Introduction to the Performance Topics
 
 This section is a shorter version of the
 [Optimization Guide](supported_plugins/MULTI.md) for the Intel Deep Learning Deployment Toolkit.

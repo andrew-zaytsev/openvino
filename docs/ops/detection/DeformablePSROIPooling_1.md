@@ -1,4 +1,4 @@
-## DeformablePSROIPooling <a name="DeformablePSROIPooling"></a> {#openvino_docs_ops_detection_DeformablePSROIPooling_1}
+## DeformablePSROIPooling <a name="DeformablePSROIPooling"></a>
 
 **Versioned name**: *DeformablePSROIPooling-1*
 

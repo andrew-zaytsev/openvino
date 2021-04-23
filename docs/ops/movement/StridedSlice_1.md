@@ -1,4 +1,4 @@
-## StridedSlice <a name="StridedSlice"></a> {#openvino_docs_ops_movement_StridedSlice_1}
+## StridedSlice <a name="StridedSlice"></a>
 
 **Versioned name**: *StridedSlice-1*
 

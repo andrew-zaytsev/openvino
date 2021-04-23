@@ -1,4 +1,4 @@
-## ExperimentalDetectronDetectionOutput <a name="ExperimentalDetectronDetectionOutput"></a> {#openvino_docs_ops_detection_ExperimentalDetectronDetectionOutput_6}
+## ExperimentalDetectronDetectionOutput <a name="ExperimentalDetectronDetectionOutput"></a>
 
 **Versioned name**: *ExperimentalDetectronDetectionOutput-6*
 

@@ -1,4 +1,4 @@
-## ScatterNDUpdate <a name="ScatterNDUpdate"></a> {#openvino_docs_ops_movement_ScatterNDUpdate_3}
+## ScatterNDUpdate <a name="ScatterNDUpdate"></a>
 
 **Versioned name**: *ScatterNDUpdate-3*
 

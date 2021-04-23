@@ -1,4 +1,4 @@
-# Converting a MXNet* Model {#openvino_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_MxNet}
+# Converting a MXNet* Model
 
 A summary of the steps for optimizing and deploying a model that was trained with the MXNet\* framework:
 

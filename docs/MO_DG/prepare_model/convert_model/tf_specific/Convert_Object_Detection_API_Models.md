@@ -1,4 +1,4 @@
-# Converting TensorFlow* Object Detection API Models {#openvino_docs_MO_DG_prepare_model_convert_model_tf_specific_Convert_Object_Detection_API_Models}
+# Converting TensorFlow* Object Detection API Models
 
 > **NOTES**:
 > * Starting with the 2021.1 release, the Model Optimizer converts the TensorFlow\* Object Detection API SSDs, Faster and Mask RCNNs topologies keeping shape-calculating sub-graphs by default, so topologies can be re-shaped in the Inference Engine using dedicated reshape API. Refer to [Using Shape Inference](../../../../IE_DG/ShapeInference.md) for more information on how to use this feature. It is possible to change the both spatial dimensions of the input image and batch size.

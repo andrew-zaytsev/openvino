@@ -1,4 +1,4 @@
-## Negative <a name="Negative"></a> {#openvino_docs_ops_arithmetic_Negative_1}
+## Negative <a name="Negative"></a>
 
 **Versioned name**: *Negative-1*
 

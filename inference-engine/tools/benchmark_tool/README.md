@@ -1,4 +1,4 @@
-# Benchmark Python* Tool {#openvino_inference_engine_tools_benchmark_tool_README}
+# Benchmark Python* Tool
 
 This topic demonstrates how to run the Benchmark Python* Tool, which performs inference using convolutional networks. Performance can be measured for two inference modes: synchronous (latency-oriented) and asynchronous (throughput-oriented).
 

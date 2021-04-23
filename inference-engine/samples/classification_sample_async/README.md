@@ -1,4 +1,4 @@
-# Image Classification C++ Sample Async {#openvino_inference_engine_samples_classification_sample_async_README}
+# Image Classification C++ Sample Async
 
 This sample demonstrates how to execute an inference of image classification networks like AlexNet and GoogLeNet using Asynchronous Inference Request API.
 

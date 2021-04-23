@@ -1,4 +1,4 @@
-# Get Started with OpenVINO™ Toolkit on Linux* {#openvino_docs_get_started_get_started_linux}
+# Get Started with OpenVINO™ Toolkit on Linux*
 
 The OpenVINO™ toolkit optimizes and runs Deep Learning Neural Network models on Intel® hardware. This guide helps you get started with the OpenVINO™ toolkit you installed on a Linux* operating system. 
 

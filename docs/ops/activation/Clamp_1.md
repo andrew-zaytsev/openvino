@@ -1,4 +1,4 @@
-## Clamp<a name="Clamp"></a> {#openvino_docs_ops_activation_Clamp_1}
+## Clamp<a name="Clamp"></a>
 
 **Versioned name**: *Clamp-1*
 

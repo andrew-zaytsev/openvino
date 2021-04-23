@@ -1,4 +1,4 @@
-# Multi-Device Plugin {#openvino_docs_IE_DG_supported_plugins_MULTI}
+# Multi-Device Plugin
 
 ## Introducing Multi-Device Execution
 

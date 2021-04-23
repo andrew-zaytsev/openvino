@@ -1,4 +1,4 @@
-# How to Implement Custom GPU Operations {#openvino_docs_IE_DG_Extensibility_DG_GPU_Kernel}
+# How to Implement Custom GPU Operations
 
 The GPU codepath abstracts many details about OpenCL\*. You need to provide the kernel code in OpenCL C and the configuration file that connects the kernel and its parameters to the parameters of the operation.
 

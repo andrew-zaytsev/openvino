@@ -1,4 +1,4 @@
-## Acos <a name="Acos"></a> {#openvino_docs_ops_arithmetic_Acos_1}
+## Acos <a name="Acos"></a>
 
 **Versioned name**: *Acos-1*
 

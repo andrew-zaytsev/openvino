@@ -1,4 +1,4 @@
-## Multiply <a name="Multiply"></a> {#openvino_docs_ops_arithmetic_Multiply_1}
+## Multiply <a name="Multiply"></a>
 
 **Versioned name**: *Multiply-1*
 

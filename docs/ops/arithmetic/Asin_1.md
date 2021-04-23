@@ -1,4 +1,4 @@
-## Asin <a name="Asin"></a> {#openvino_docs_ops_arithmetic_Asin_1}
+## Asin <a name="Asin"></a>
 
 **Versioned name**: *Asin-1*
 

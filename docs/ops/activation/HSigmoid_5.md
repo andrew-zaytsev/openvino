@@ -1,4 +1,4 @@
-## HSigmoid<a name="HSigmoid"></a> {#openvino_docs_ops_activation_HSigmoid_5}
+## HSigmoid<a name="HSigmoid"></a>
 
 **Versioned name**: *HSigmoid-5*
 

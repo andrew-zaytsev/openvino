@@ -1,4 +1,4 @@
-# Broadcast Rules For Elementwise Operations {#openvino_docs_ops_broadcast_rules}
+# Broadcast Rules For Elementwise Operations
 
 The purpose of this document is to provide a set of common rules which are applicable for ops using broadcasting.
 

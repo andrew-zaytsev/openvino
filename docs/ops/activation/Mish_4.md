@@ -1,4 +1,4 @@
-## Mish <a name="Mish"></a> {#openvino_docs_ops_activation_Mish_4}
+## Mish <a name="Mish"></a>
 
 **Versioned name**: *Mish-4*
 

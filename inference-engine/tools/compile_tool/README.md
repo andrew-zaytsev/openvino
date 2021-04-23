@@ -1,4 +1,4 @@
-# Compile Tool {#openvino_inference_engine_tools_compile_tool_README}
+# Compile Tool
 
 Compile tool is a C++ application that enables you to compile a network for inference on a specific device and export it to a binary file. 
 With the Compile Tool, you can compile a network using supported Inference Engine plugins on a machine that doesn't have the physical device connected and then transfer a generated file to any machine with the target inference device available.

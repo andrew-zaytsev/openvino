@@ -1,4 +1,4 @@
-## Split <a name="Split"></a> {#openvino_docs_ops_movement_Split_1}
+## Split <a name="Split"></a>
 
 **Versioned name**: *Split-1*
 

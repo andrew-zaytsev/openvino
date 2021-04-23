@@ -1,4 +1,4 @@
-## MVN <a name="MVN"></a> {#openvino_docs_ops_normalization_MVN_6}
+## MVN <a name="MVN"></a>
 
 **Versioned name**: *MVN-6*
 

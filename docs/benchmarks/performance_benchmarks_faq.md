@@ -1,4 +1,4 @@
-# Performance Information Frequently Asked Questions {#openvino_docs_performance_benchmarks_faq}
+# Performance Information Frequently Asked Questions
 
 The following questions and answers are related to [performance benchmarks](./performance_benchmarks.md) published on the documentation site.
 

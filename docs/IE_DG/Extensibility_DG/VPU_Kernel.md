@@ -1,4 +1,4 @@
-# How to Implement Custom Layers for VPU (Intel® Neural Compute Stick 2) {#openvino_docs_IE_DG_Extensibility_DG_VPU_Kernel}
+# How to Implement Custom Layers for VPU (Intel® Neural Compute Stick 2)
 
 > **NOTES:** 
 > * OpenCL\* custom layer support is available in the preview mode.

@@ -1,4 +1,4 @@
-# Plugin {#plugin}
+# Plugin
 
 Inference Engine Plugin usually represents a wrapper around a backend. Backends can be:
 - OpenCL-like backend (e.g. clDNN library) for GPU devices.

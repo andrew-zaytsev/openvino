@@ -1,4 +1,4 @@
-## ShapeOf <a name="ShapeOf"></a> {#openvino_docs_ops_shape_ShapeOf_1}
+## ShapeOf <a name="ShapeOf"></a>
 
 **Versioned name**: *ShapeOf-1*
 

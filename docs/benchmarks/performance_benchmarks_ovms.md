@@ -1,4 +1,4 @@
-# OpenVINO™ Model Server Benchmark Results {#openvino_docs_performance_benchmarks_ovms}
+# OpenVINO™ Model Server Benchmark Results
 
 OpenVINO™ Model Server is an open-source, production-grade inference platform that exposes a set of models via a convenient inference API over gRPC or HTTP/REST. It employs the inference engine libraries for from the Intel® Distribution of OpenVINO™ toolkit to extend workloads across Intel® hardware including CPU, GPU and others.
 

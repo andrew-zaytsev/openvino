@@ -1,4 +1,4 @@
-# Automatic Speech Recognition C++ Sample {#openvino_inference_engine_samples_speech_sample_README}
+# Automatic Speech Recognition C++ Sample
 
 This sample demonstrates how to execute an Asynchronous Inference of acoustic model based on Kaldi\* neural networks and speech feature vectors.
 

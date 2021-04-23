@@ -1,4 +1,4 @@
-# Configuration Guide for Intel® Distribution of OpenVINO™ toolkit 2018R5 and the Intel® Programmable Acceleration Card with Intel® Arria® 10 FPGA GX on CentOS*  {#openvino_docs_install_guides_PAC_Configure_2018R5}
+# Configuration Guide for Intel® Distribution of OpenVINO™ toolkit 2018R5 and the Intel® Programmable Acceleration Card with Intel® Arria® 10 FPGA GX on CentOS* 
 
 ## Get Started
 

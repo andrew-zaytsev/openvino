@@ -1,4 +1,4 @@
-# Introduction to the nGraph {#openvino_docs_nGraph_DG_Introduction}
+# Introduction to the nGraph
 
 The Inference Engine integrates the nGraph to represent a model in run time underneath of the conventional
 `CNNNetwork` API, which is an instance of `ngraph::Function`.

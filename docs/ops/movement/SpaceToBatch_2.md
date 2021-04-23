@@ -1,4 +1,4 @@
-## SpaceToBatch <a name="SpaceToBatch"></a> {#openvino_docs_ops_movement_SpaceToBatch_2}
+## SpaceToBatch <a name="SpaceToBatch"></a>
 
 **Versioned name**: *SpaceToBatch-2*
 
