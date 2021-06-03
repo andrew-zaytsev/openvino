@@ -202,8 +202,8 @@ Testing by Intel done on: see test date for each HW platform below.
 
 |                      | Intel Atom® x5-E3940                  | Intel Atom® x6425RE                               | Intel® Celeron® 6305E            |
 | -------------------- | --------------------------------------|-------------------------------                    |----------------------------------|
-| Motherboard          |                                       | Intel Corporation /<br>ElkhartLake LPDDR4x T3 CRB | TigerLake U DDR4 SODIMM RVP      |
-| CPU                  | Intel Atom® Processor E3940 @ 1.60GHz | Intel Atom® x6425RE<br>Processor @ 1.90GHz        | Intel® Celeron® 6305E @ 1.80GHz  |
+| Motherboard          |                                       | Intel Corporation /<br>ElkhartLake LPDDR4x T3 CRB | TigerLake U DDR4<br>SODIMM RVP      |
+| CPU                  | Intel Atom® Processor E3940 @ 1.60GHz | Intel Atom® x6425RE<br>Processor @ 1.90GHz        | Intel® Celeron®<br>6305E @ 1.80GHz  |
 | Hyper Threading      | OFF                                   | OFF                                               | |
 | Turbo Setting        | ON                                    | ON                                                | |
 | Memory               | 1 x 8 GB DDR3 1600MHz                 | 2 x 4GB DDR4 3200 MHz                             | |                                  
