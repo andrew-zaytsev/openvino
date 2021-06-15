@@ -20,24 +20,24 @@ The table below illustrates the speed-up factor for the performance gain by swit
     <td>bert-large-<br>uncased-whole-word-<br>masking-squad-0001</td>
     <td>SQuAD</td>
     <td>1.6</td>
-    <td>3.0</td>
-    <td>1.6</td>
-    <td>2.3</td>
+    <td>3.2</td>
+    <td>1.5</td>
+    <td>2.2</td>
   </tr>
   <tr>
     <td>brain-tumor-<br>segmentation-<br>0001-MXNET</td>
     <td>BraTS</td>
-    <td>1.6</td>
-    <td>1.9</td>
-    <td>1.7</td>
-    <td>1.7</td>
+    <td>1.2</td>
+    <td>1.5</td>
+    <td>1.0</td>
+    <td>1.0</td>
   </tr>
   <tr>
     <td>deeplabv3-TF</td>
     <td>VOC 2012<br>Segmentation</td>
-    <td>2.1</td>
-    <td>3.1</td>
-    <td>3.1</td>
+    <td>2.0</td>
+    <td>3.0</td>
+    <td>2.9</td>
     <td>3.0</td>
   </tr>
   <tr>
@@ -46,46 +46,38 @@ The table below illustrates the speed-up factor for the performance gain by swit
     <td>1.8</td>
     <td>3.5</td>
     <td>1.9</td>
-    <td>3.8</td>
+    <td>3.7</td>
   </tr>
   <tr>
     <td>facenet-<br>20180408-<br>102900-TF</td>
     <td>LFW</td>
-    <td>2.0</td>
+    <td>2.1</td>
     <td>3.6</td>
     <td>2.2</td>
-    <td>3.7</td>
+    <td>3.8</td>
   </tr>
   <tr>
     <td>faster_rcnn_<br>resnet50_coco-TF</td>
     <td>MS COCO</td>
     <td>1.9</td>
     <td>3.8</td>
-    <td>2.0</td>
+    <td>1.9</td>
     <td>3.5</td>
-  </tr>
-  <tr>
-    <td>googlenet-v1-TF</td>
-    <td>ImageNet</td>
-    <td>1.8</td>
-    <td>3.6</td>
-    <td>2.0</td>
-    <td>3.9</td>
   </tr>
   <tr>
     <td>inception-v3-TF</td>
     <td>ImageNet</td>
     <td>1.9</td>
-    <td>3.8</td>
+    <td>3.9</td>
     <td>2.0</td>
-    <td>4.0</td>
+    <td>4.1</td>
   </tr>
   <tr>
     <td>mobilenet-<br>ssd-CF</td>
     <td>VOC2012</td>
-    <td>1.7</td>
+    <td>1.6</td>
     <td>3.1</td>
-    <td>1.8</td>
+    <td>2.0</td>
     <td>3.6</td>
   </tr>
   <tr>
