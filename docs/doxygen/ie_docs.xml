@@ -19,7 +19,7 @@ limitations under the License.
 <doxygenlayout xmlns:xi="http://www.w3.org/2001/XInclude" version="1.0">
     <!-- Navigation index tabs for HTML output -->
     <navindex>
-        <tab id="converting_and_preparing_models" type="usergroup" title="Converting and Preparing Models" url="">
+        <tab id="converting_and_preparing_models" type="usergroup" title="Converting and Preparing Models" url="@ref openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide">
             <!-- Model Optimizer Developer Guide-->
             <tab type="usergroup" title="Model Optimizer Developer Guide" url="@ref openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide">
                 <tab type="usergroup" title="Preparing and Optimizing Your Trained Model" url="@ref openvino_docs_MO_DG_prepare_model_Prepare_Trained_Model">
