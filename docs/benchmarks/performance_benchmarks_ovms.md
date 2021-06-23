@@ -20,10 +20,8 @@ OpenVINO™ Model Server is measured in multiple-client-single-server configurat
 
 ## resnet-50-TF (INT8)
 ![](../img/throughput_ovms_resnet50_int8.png)
-## resnet-50-TF (FP32, Batch Size = 1)
+## resnet-50-TF (FP32)
 ![](../img/throughput_ovms_resnet50_fp32_bs_1.png)
-## resnet-50-TF (FP32, Batch Size = 16)
-![](../img/throughput_ovms_resnet50_fp32_bs_16.png)
 ## 3D U-Net (FP32)
 ![](../img/throughput_ovms_3dunet.png)
 ## yolo-v3-tf (FP32)
@@ -32,7 +30,7 @@ OpenVINO™ Model Server is measured in multiple-client-single-server configurat
 ![](../img/throughput_ovms_yolo3tiny_fp32.png)
 ## yolo-v4-tf (FP32)
 ![](../img/throughput_ovms_yolo4_fp32.png)
-## bert-small-uncased-whole-word-masking-squad-0001 (FP32)
+## bert-small-uncased-whole-word-masking-squad-0002 (FP32)
 ![](../img/throughput_ovms_bertsmall_fp32.png)
 ## bert-small-uncased-whole-word-masking-squad-int8-0002 (INT8)
 ![](../img/throughput_ovms_bertsmall_int8.png)
@@ -40,8 +38,6 @@ OpenVINO™ Model Server is measured in multiple-client-single-server configurat
 ![](../img/throughput_ovms_bertlarge_fp32.png)
 ## bert-large-uncased-whole-word-masking-squad-int8-0001 (INT8)
 ![](../img/throughput_ovms_bertlarge_int8.png)
-## mobilenet-v3-small-1.0-224-tf (FP32)
-![](../img/throughput_ovms_mobilenet3small_fp32.png)
 ## mobilenet-v3-large-1.0-224-tf (FP32)
 ![](../img/throughput_ovms_mobilenet3large_fp32.png)
 ## ssd_mobilenet_v1_coco (FP32)
@@ -49,7 +45,7 @@ OpenVINO™ Model Server is measured in multiple-client-single-server configurat
 
 ## Platform Configurations
 
-OpenVINO™ Model Server performance benchmark numbers are based on release 2021.4. Performance results are based on testing as of May 27, 2021 and may not reflect all publicly available updates. 
+OpenVINO™ Model Server performance benchmark numbers are based on release 2021.4. Performance results are based on testing as of June 17, 2021 and may not reflect all publicly available updates. 
 
 **Platform with Intel® Xeon® Platinum 8260M**
 
