@@ -133,8 +133,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Operating System                | Ubuntu* 18.04 LTS                  | Ubuntu* 18.04 LTS                  | Ubuntu* 18.04 LTS                       |
 | Kernel Version                  | 5.3.0-24-generic                   | 5.3.0-24-generic                   | 5.3.0-24-generic                        | 
 | BIOS Vendor                     | American Megatrends Inc.*          | American Megatrends Inc.           | Intel Corporation                       |
-| BIOS Version                    | 0904                               | 607                                | SE5C620.86B.02.01.<br>0009.092820190230 |
-| BIOS Release                    | April 12, 2019                     | May 29, 2020                       | September 28, 2019                      |
+| BIOS Version                    | 0904                               | 607                                | SE5C620.86B.02.01.<br>0013.121520200651 |
+| BIOS Release                    | April 12, 2019                     | May 29, 2020                       | December 15, 2020                       |
 | BIOS Settings                   | Select optimized default settings, <br>save & exit | Select optimized default settings, <br>save & exit | Select optimized default settings, <br>change power policy <br>to "performance", <br>save & exit |
 | Batch size                      | 1                                  | 1                                  | 1                            
 | Precision                       | INT8                               | INT8                               | INT8                         
@@ -155,8 +155,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Operating System                | Ubuntu* 18.04 LTS                       | Ubuntu* 18.04 LTS                        | Ubuntu* 18.04 LTS                        |
 | Kernel Version                  | 5.3.0-24-generic                        | 5.3.0-24-generic                         | 5.3.0-24-generic                         |
 | BIOS Vendor                     | Intel Corporation                       | Intel Corporation                        | Intel Corporation                        |
-| BIOS Version                    | SE5C620.86B.02.01.<br>0009.092820190230 | SE5C620.86B.02.01.<br>0009.092820190230  | WLYDCRB1.SYS.0020.<br>P86.2103050636     |
-| BIOS Release                    | September 28, 2019                      | September 28, 2019                       | March 5, 2021                            |
+| BIOS Version                    | SE5C620.86B.02.01.<br>0013.121520200651 | SE5C620.86B.02.01.<br>0013.121520200651  | WLYDCRB1.SYS.0020.<br>P86.2103050636     |
+| BIOS Release                    | December 15, 2020                       | December 15, 2020                        | March 5, 2021                            |
 | BIOS Settings                   | Select optimized default settings, <br>change power policy to "performance", <br>save & exit | Select optimized default settings, <br>change power policy to "performance", <br>save & exit | Select optimized default settings, <br>change power policy to "performance", <br>save & exit |
 | Batch size                      | 1                                       | 1                                        | 1                                        |
 | Precision                       | INT8                                    | INT8                                     | INT8                                     |
