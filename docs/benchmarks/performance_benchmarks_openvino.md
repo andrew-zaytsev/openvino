@@ -178,8 +178,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Operating System     | Ubuntu* 18.04 LTS                   | Ubuntu* 18.04 LTS                    |
 | Kernel Version       | 5.3.0-24-generic                    | 5.3.0-24-generic                     |
 | BIOS Vendor          | American Megatrends Inc.*           | American Megatrends Inc.*            |
-| BIOS Version         | F11                                 | 505                                  |
-| BIOS Release         | March 13, 2019                      | December 17, 2019                    |
+| BIOS Version         | F14c                                | 1004                                 |
+| BIOS Release         | March 23, 2021                      | March 19, 2021                       |
 | BIOS Settings        | Select optimized default settings, <br>set OS type to "other", <br>save & exit | Default Settings |
 | Batch size           | 1                                   | 1                                    |
 | Precision            | INT8                                | INT8                                 |
