@@ -13,7 +13,7 @@ OpenVINO™ toolkit is a comprehensive toolkit for quickly developing applicatio
 
 The Intel® Distribution of OpenVINO™ toolkit for Linux\*:
 - Enables CNN-based deep learning inference on the edge
-- Supports heterogeneous execution across Intel® CPU, Intel® Integrated Graphics, Intel® Neural Compute Stick 2, and Intel® Vision Accelerator Design with Intel® Movidius™ VPUs
+- Supports heterogeneous execution across Intel® CPU, Intel® Processor Graphics, Intel® Neural Compute Stick 2, and Intel® Vision Accelerator Design with Intel® Movidius™ VPUs
 - Speeds time-to-market via an easy-to-use library of computer vision functions and pre-optimized kernels
 - Includes optimized calls for computer vision standards including OpenCV\* and OpenCL™
 
@@ -53,6 +53,7 @@ Proceed to an [easy installation from Docker](@ref workbench_docs_Workbench_DG_I
 * Intel® Xeon® Scalable processor (formerly Skylake and Cascade Lake)
 * Intel Atom® processor with support for Intel® Streaming SIMD Extensions 4.1 (Intel® SSE4.1)
 * Intel Pentium® processor N4200/5, N3350/5, or N3450/5 with Intel® HD Graphics
+* Intel® Iris® Xe MAX Graphics
 * Intel® Neural Compute Stick 2
 * Intel® Vision Accelerator Design with Intel® Movidius™ VPUs
 
@@ -69,6 +70,11 @@ Proceed to an [easy installation from Docker](@ref workbench_docs_Workbench_DG_I
 - Ubuntu 20.04.0 long-term support (LTS), 64-bit
 - CentOS 7.6, 64-bit (for target only)
 - Yocto Project v3.0, 64-bit (for target only and requires modifications)
+
+For deployment scenarios on Red Hat* Enterprise Linux* 8.2 (64 bit), you can use the of Intel® Distribution of OpenVINO™ toolkit run-time package that includes the Inference Engine core libraries, nGraph, OpenCV, Python bindings, CPU and GPU plugins. The package is available as: 
+- [Downloadable archive](https://storage.openvinotoolkit.org/repositories/openvino/packages/2021.3/l_openvino_toolkit_runtime_rhel8_p_2021.3.394.tgz)
+- [PyPi package](https://pypi.org/project/openvino/)
+- [Docker image](installing-openvino-docker-linux.md)
 
 ## Overview
 
