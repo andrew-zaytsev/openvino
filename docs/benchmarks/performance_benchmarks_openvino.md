@@ -140,8 +140,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision                       | INT8                               | INT8                               | INT8                         
 | Number of concurrent inference requests | 4                          | 5                                  | 32                           
 | Test Date                       | June 18, 2021                     | June 18, 2021                     | June 18, 2021             
-| Power dissipation, TDP in Watt  | [71](https://ark.intel.com/content/www/us/en/ark/products/134854/intel-xeon-e-2124g-processor-8m-cache-up-to-4-50-ghz.html#tab-blade-1-0-1)                    | [125](https://ark.intel.com/content/www/us/en/ark/products/199336/intel-xeon-w-1290p-processor-20m-cache-3-70-ghz.html)                          | [125](https://ark.intel.com/content/www/us/en/ark/products/193394/intel-xeon-silver-4216-processor-22m-cache-2-10-ghz.html#tab-blade-1-0-1) |
-| CPU Price on June 21, 2021, USD<br>Prices may vary  | [213](https://ark.intel.com/content/www/us/en/ark/products/134854/intel-xeon-e-2124g-processor-8m-cache-up-to-4-50-ghz.html)     | [539](https://ark.intel.com/content/www/us/en/ark/products/199336/intel-xeon-w-1290p-processor-20m-cache-3-70-ghz.html)     |[1,002](https://ark.intel.com/content/www/us/en/ark/products/193394/intel-xeon-silver-4216-processor-22m-cache-2-10-ghz.html)                 | 
+| Rated maximum TDP/socket in Watt  | [71](https://ark.intel.com/content/www/us/en/ark/products/134854/intel-xeon-e-2124g-processor-8m-cache-up-to-4-50-ghz.html#tab-blade-1-0-1)                    | [125](https://ark.intel.com/content/www/us/en/ark/products/199336/intel-xeon-w-1290p-processor-20m-cache-3-70-ghz.html)                          | [125](https://ark.intel.com/content/www/us/en/ark/products/193394/intel-xeon-silver-4216-processor-22m-cache-2-10-ghz.html#tab-blade-1-0-1) |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary  | [213](https://ark.intel.com/content/www/us/en/ark/products/134854/intel-xeon-e-2124g-processor-8m-cache-up-to-4-50-ghz.html)     | [539](https://ark.intel.com/content/www/us/en/ark/products/199336/intel-xeon-w-1290p-processor-20m-cache-3-70-ghz.html)     |[1,002](https://ark.intel.com/content/www/us/en/ark/products/193394/intel-xeon-silver-4216-processor-22m-cache-2-10-ghz.html)                 | 
 
 **CPU Inference Engines (continue)**
 
@@ -162,8 +162,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision                       | INT8                                    | INT8                                     | INT8                                     |
 | Number of concurrent inference requests |32                               | 52                                       | 80                                       |
 | Test Date                       | June 18, 2021                          | June 18, 2021                           | June 18, 2021                           |
-| Power dissipation, TDP in Watt  | [105](https://ark.intel.com/content/www/us/en/ark/products/193953/intel-xeon-gold-5218t-processor-22m-cache-2-10-ghz.html#tab-blade-1-0-1)           | [205](https://ark.intel.com/content/www/us/en/ark/products/192482/intel-xeon-platinum-8270-processor-35-75m-cache-2-70-ghz.html#tab-blade-1-0-1)          | [270](https://ark.intel.com/content/www/us/en/ark/products/212287/intel-xeon-platinum-8380-processor-60m-cache-2-30-ghz.html) |
-| CPU Price on June 21, 2021, USD<br>Prices may vary  | [1,349](https://ark.intel.com/content/www/us/en/ark/products/193953/intel-xeon-gold-5218t-processor-22m-cache-2-10-ghz.html) | [7,405](https://ark.intel.com/content/www/us/en/ark/products/192482/intel-xeon-platinum-8270-processor-35-75m-cache-2-70-ghz.html) | [8,099](https://ark.intel.com/content/www/us/en/ark/products/212287/intel-xeon-platinum-8380-processor-60m-cache-2-30-ghz.html) |
+| Rated maximum TDP/socket in Watt  | [105](https://ark.intel.com/content/www/us/en/ark/products/193953/intel-xeon-gold-5218t-processor-22m-cache-2-10-ghz.html#tab-blade-1-0-1)           | [205](https://ark.intel.com/content/www/us/en/ark/products/192482/intel-xeon-platinum-8270-processor-35-75m-cache-2-70-ghz.html#tab-blade-1-0-1)          | [270](https://ark.intel.com/content/www/us/en/ark/products/212287/intel-xeon-platinum-8380-processor-60m-cache-2-30-ghz.html) |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary  | [1,349](https://ark.intel.com/content/www/us/en/ark/products/193953/intel-xeon-gold-5218t-processor-22m-cache-2-10-ghz.html) | [7,405](https://ark.intel.com/content/www/us/en/ark/products/192482/intel-xeon-platinum-8270-processor-35-75m-cache-2-70-ghz.html) | [8,099](https://ark.intel.com/content/www/us/en/ark/products/212287/intel-xeon-platinum-8380-processor-60m-cache-2-30-ghz.html) |
 
 
 **CPU Inference Engines (continue)**
@@ -185,8 +185,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision            | INT8                                | INT8                                 |
 | Number of concurrent inference requests |4                 | 24                                   |
 | Test Date            | June 18, 2021                      | June 18, 2021                         |
-| Power dissipation, TDP in Watt                             | [35](https://ark.intel.com/content/www/us/en/ark/products/129948/intel-core-i7-8700t-processor-12m-cache-up-to-4-00-ghz.html#tab-blade-1-0-1) | [165](https://ark.intel.com/content/www/us/en/ark/products/198012/intel-core-i9-10920x-x-series-processor-19-25m-cache-3-50-ghz.html) |
-| CPU Price on June 21, 2021, USD<br>Prices may vary    | [303](https://ark.intel.com/content/www/us/en/ark/products/129948/intel-core-i7-8700t-processor-12m-cache-up-to-4-00-ghz.html)                | [700](https://ark.intel.com/content/www/us/en/ark/products/198012/intel-core-i9-10920x-x-series-processor-19-25m-cache-3-50-ghz.html) |
+| Rated maximum TDP/socket in Watt                             | [35](https://ark.intel.com/content/www/us/en/ark/products/129948/intel-core-i7-8700t-processor-12m-cache-up-to-4-00-ghz.html#tab-blade-1-0-1) | [165](https://ark.intel.com/content/www/us/en/ark/products/198012/intel-core-i9-10920x-x-series-processor-19-25m-cache-3-50-ghz.html) |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary    | [303](https://ark.intel.com/content/www/us/en/ark/products/129948/intel-core-i7-8700t-processor-12m-cache-up-to-4-00-ghz.html)                | [700](https://ark.intel.com/content/www/us/en/ark/products/198012/intel-core-i9-10920x-x-series-processor-19-25m-cache-3-50-ghz.html) |
 
 **CPU Inference Engines (continue)**
 |                      | 11th Gen Intel® Core™ i7-1185G7 | 11th Gen Intel® Core™ i7-11850HE |
@@ -206,8 +206,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision            | INT8                                      | INT8 |
 | Number of concurrent inference requests |4                       | 4 |
 | Test Date            | June 18, 2021                             | June 18, 2021  |
-| Power dissipation, TDP in Watt                             | [28](https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html) | [45](https://ark.intel.com/content/www/us/en/ark/products/213799/intel-core-i7-11850h-processor-24m-cache-up-to-4-80-ghz.html) |
-| CPU Price on June 21, 2021, USD<br>Prices may vary    | [426](https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html)                | [395](https://ark.intel.com/content/www/us/en/ark/products/213799/intel-core-i7-11850h-processor-24m-cache-up-to-4-80-ghz.html) |
+| Rated maximum TDP/socket in Watt                             | [28](https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html) | [45](https://ark.intel.com/content/www/us/en/ark/products/213799/intel-core-i7-11850h-processor-24m-cache-up-to-4-80-ghz.html) |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary    | [426](https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html)                | [395](https://ark.intel.com/content/www/us/en/ark/products/213799/intel-core-i7-11850h-processor-24m-cache-up-to-4-80-ghz.html) |
 
 **CPU Inference Engines (continue)**
 
@@ -228,8 +228,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision            | INT8                               | INT8                               | INT8                                  |
 | Number of concurrent inference requests | 4               | 3               | 4                                     |
 | Test Date            | June 18, 2021                       | June 18, 2021                     | June 18, 2021                      |
-| Power dissipation, TDP in Watt                            |  [65](https://ark.intel.com/content/www/us/en/ark/products/126688/intel-core-i3-8100-processor-6m-cache-3-60-ghz.html#tab-blade-1-0-1)| [65](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i5-8500-processor-9m-cache-up-to-4-10-ghz.html#tab-blade-1-0-1)| [35](https://ark.intel.com/content/www/us/en/ark/products/203891/intel-core-i5-10500te-processor-12m-cache-up-to-3-70-ghz.html)  |
-| CPU Price on June 21, 2021, USD<br>Prices may vary   |  [117](https://ark.intel.com/content/www/us/en/ark/products/126688/intel-core-i3-8100-processor-6m-cache-3-60-ghz.html) | [192](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i5-8500-processor-9m-cache-up-to-4-10-ghz.html)               | [195](https://ark.intel.com/content/www/us/en/ark/products/203891/intel-core-i5-10500te-processor-12m-cache-up-to-3-70-ghz.html) |
+| Rated maximum TDP/socket in Watt                            |  [65](https://ark.intel.com/content/www/us/en/ark/products/126688/intel-core-i3-8100-processor-6m-cache-3-60-ghz.html#tab-blade-1-0-1)| [65](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i5-8500-processor-9m-cache-up-to-4-10-ghz.html#tab-blade-1-0-1)| [35](https://ark.intel.com/content/www/us/en/ark/products/203891/intel-core-i5-10500te-processor-12m-cache-up-to-3-70-ghz.html)  |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary   |  [117](https://ark.intel.com/content/www/us/en/ark/products/126688/intel-core-i3-8100-processor-6m-cache-3-60-ghz.html) | [192](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i5-8500-processor-9m-cache-up-to-4-10-ghz.html)               | [195](https://ark.intel.com/content/www/us/en/ark/products/203891/intel-core-i5-10500te-processor-12m-cache-up-to-3-70-ghz.html) |
 
 
 **CPU Inference Engines (continue)**
@@ -251,8 +251,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision            | INT8                                  | INT8                                              | INT8 |
 | Number of concurrent inference requests | 4                  | 4                                                 | 4|
 | Test Date            | June 18, 2021                          | June 18, 2021                                    | June 18, 2021 |
-| Power dissipation, TDP in Watt | [9.5](https://ark.intel.com/content/www/us/en/ark/products/96485/intel-atom-x5-e3940-processor-2m-cache-up-to-1-80-ghz.html)  | [12](https://ark.intel.com/content/www/us/en/ark/products/207899/intel-atom-x6425re-processor-1-5m-cache-1-90-ghz.html) | [15](https://ark.intel.com/content/www/us/en/ark/products/208072/intel-celeron-6305e-processor-4m-cache-1-80-ghz.html)|
-| CPU Price on June 21, 2021, USD<br>Prices may vary  | [34](https://ark.intel.com/content/www/us/en/ark/products/96485/intel-atom-x5-e3940-processor-2m-cache-up-to-1-80-ghz.html) | [59](https://ark.intel.com/content/www/us/en/ark/products/207899/intel-atom-x6425re-processor-1-5m-cache-1-90-ghz.html) |[107](https://ark.intel.com/content/www/us/en/ark/products/208072/intel-celeron-6305e-processor-4m-cache-1-80-ghz.html) |
+| Rated maximum TDP/socket in Watt | [9.5](https://ark.intel.com/content/www/us/en/ark/products/96485/intel-atom-x5-e3940-processor-2m-cache-up-to-1-80-ghz.html)  | [12](https://ark.intel.com/content/www/us/en/ark/products/207899/intel-atom-x6425re-processor-1-5m-cache-1-90-ghz.html) | [15](https://ark.intel.com/content/www/us/en/ark/products/208072/intel-celeron-6305e-processor-4m-cache-1-80-ghz.html)|
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary  | [34](https://ark.intel.com/content/www/us/en/ark/products/96485/intel-atom-x5-e3940-processor-2m-cache-up-to-1-80-ghz.html) | [59](https://ark.intel.com/content/www/us/en/ark/products/207899/intel-atom-x6425re-processor-1-5m-cache-1-90-ghz.html) |[107](https://ark.intel.com/content/www/us/en/ark/products/208072/intel-celeron-6305e-processor-4m-cache-1-80-ghz.html) |
 
 
 
@@ -265,8 +265,8 @@ Testing by Intel done on: see test date for each HW platform below.
 | Batch size                              | 1                                     | 1                                     |
 | Precision                               | FP16                                  | FP16                                  |
 | Number of concurrent inference requests | 4                                     | 32                                    |
-| Power dissipation, TDP in Watt          | 2.5                                   | [30](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)          |
-| CPU Price on June 21, 2021, USD<br>Prices may vary | [69](https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute-stick-2.html) (from June 18, 2021) | [425](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)  |
+| Rated maximum TDP/socket in Watt          | 2.5                                   | [30](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)          |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary | [69](https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute-stick-2.html) (from June 18, 2021) | [425](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)  |
 | Host Computer                           | Intel® Core™ i7                       | Intel® Core™ i5                       |
 | Motherboard                             | ASUS* Z370-A II                       | Uzelinfo* / US-E1300                  |
 | CPU                                     | Intel® Core™ i7-8700 CPU @ 3.20GHz    | Intel® Core™ i5-6600 CPU @ 3.30GHz    |
