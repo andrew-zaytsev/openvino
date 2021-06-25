@@ -74,7 +74,7 @@ Proceed to an [easy installation from Docker](@ref workbench_docs_Workbench_DG_I
 For deployment scenarios on Red Hat* Enterprise Linux* 8.2 (64 bit), you can use the of Intel® Distribution of OpenVINO™ toolkit run-time package that includes the Inference Engine core libraries, nGraph, OpenCV, Python bindings, CPU and GPU plugins. The package is available as: 
 - [Downloadable archive](https://storage.openvinotoolkit.org/repositories/openvino/packages/2021.3/l_openvino_toolkit_runtime_rhel8_p_2021.3.394.tgz)
 - [PyPi package](https://pypi.org/project/openvino/)
-- [Docker image](installing-openvino-docker-linux.md)
+- [Docker image](https://catalog.redhat.com/software/containers/intel/openvino-runtime/606ff4d7ecb5241699188fb3)
 
 ## Overview
 
