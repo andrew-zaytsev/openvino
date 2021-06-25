@@ -266,7 +266,7 @@ Testing by Intel done on: see test date for each HW platform below.
 | Precision                               | FP16                                  | FP16                                  |
 | Number of concurrent inference requests | 4                                     | 32                                    |
 | Rated maximum TDP/socket in Watt          | 2.5                                   | [30](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)          |
-| CPU Price/socket on June 21, 2021, USD<br>Prices may vary | [69](https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute-stick-2.html) (from June 18, 2021) | [425](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)  |
+| CPU Price/socket on June 21, 2021, USD<br>Prices may vary | [69](https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute-stick-2.html) | [425](https://www.arrow.com/en/products/mustang-v100-mx8-r10/iei-technology?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ng1v1apmxz3BVCPA-tdIsOwbEjTtqnmp_rQJGMfJ6Q2xTq6ADtf9OYaAhMUEALw_wcB)  |
 | Host Computer                           | Intel® Core™ i7                       | Intel® Core™ i5                       |
 | Motherboard                             | ASUS* Z370-A II                       | Uzelinfo* / US-E1300                  |
 | CPU                                     | Intel® Core™ i7-8700 CPU @ 3.20GHz    | Intel® Core™ i5-6600 CPU @ 3.30GHz    |
