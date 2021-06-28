@@ -65,9 +65,8 @@ Measuring inference performance involves many variables and is extremely use-cas
 \endhtmlonly
 
 \htmlonly
-<script src="resnet-50-tf-224x224-ov-2021-4-569" id="resnet-50-tf-224x224-ov-2021-4-569"></script>
+<script src="resnet-50-tf-224x224-ov-2021-4-569.js" id="resnet-50-tf-224x224-ov-2021-4-569"></script>
 \endhtmlonly
-
 
 \htmlonly
 <script src="se-resnext-50-cf-224x224-ov-2021-4-569.js" id="se-resnext-50-cf-224x224-ov-2021-4-569"></script>
