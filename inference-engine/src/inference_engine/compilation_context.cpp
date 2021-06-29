@@ -42,7 +42,7 @@ static int32_t as_int32_t(T v) {
 }
 
 class OstreamHashWrapper final: public std::streambuf {
-    std::size_t m_res = 0;
+    std::size_t    m_res = {};
 public:
     std::size_t getResult() const { return m_res; }
     std::streamsize xsputn(const char* s, std::streamsize n) override {
@@ -65,7 +65,7 @@ public:
 //////////////////////////////////////////////////
 
 std::string NetworkCompilationContext::calculateFileInfo(const std::string& filePath) {
-    size_t seed = 0;
+    size_t seed {};
     auto absPath = filePath;
     try {
         absPath = FileUtils::absoluteFilePath(filePath);

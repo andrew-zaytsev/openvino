@@ -60,8 +60,7 @@ public:
     refcounted_obj_ptr<program_impl> build_program(const topology_impl& topology,
                                                    const build_options& options,
                                                    bool is_internal = false,
-                                                   bool no_optimizations = false,
-                                                   bool is_body_program = false);
+                                                   bool no_optimizations = false);
     refcounted_obj_ptr<program_impl> build_program(const std::set<std::shared_ptr<program_node>>& nodes,
                                                    const build_options& options,
                                                    bool is_internal);

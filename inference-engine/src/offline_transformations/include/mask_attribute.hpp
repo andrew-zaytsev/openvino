@@ -96,8 +96,7 @@ public:
         auto mask_2_iter = mask->rbegin();
 
         while (mask_1_iter != rend() &&
-               mask_2_iter != mask->rend() &&
-               result_iter != result_mask->rend()) {
+               mask_2_iter != mask->rend()) {
             // Merge mask dimension values for both masks
             // Example: (MaskValue[1,2,3,4], MaskValue[2,3]) -> MaskValue[2,3]
             for (const auto & value : *mask_1_iter) {
@@ -120,8 +119,7 @@ public:
         auto mask_2_iter = mask->rbegin();
 
         while (mask_1_iter != rend() &&
-               mask_2_iter != mask->rend() &&
-               result_iter != result_mask->rend()) {
+               mask_2_iter != mask->rend()) {
             // Union mask dimension values for both masks
             // Example: (MaskValue[1,2,3,4], MaskValue[2, 5]) -> MaskValue[1, 2, 3, 4, 5]
             for (const auto & value : *mask_1_iter) {

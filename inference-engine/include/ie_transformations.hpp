@@ -16,7 +16,6 @@
 namespace InferenceEngine {
 
 /**
- * @deprecated This transformation will be removed in 2023.1.
  * @brief The transformation finds all TensorIterator layers in the network, processes all back
  * edges that describe a connection between Result and Parameter of the TensorIterator body,
  * and inserts ReadValue layer between Parameter and the next layers after this Parameter,
